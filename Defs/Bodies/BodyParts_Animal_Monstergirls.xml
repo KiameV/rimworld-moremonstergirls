@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <BodyPartDef>
+    <defName>HarpyWing</defName>
+    <label>harpy wing</label>
+    <hitPoints>30</hitPoints>
+    <frostbiteVulnerability>1.5</frostbiteVulnerability>
+    <alive>true</alive>
+    <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+    <skinCovered>true</skinCovered>
+    <tags>
+      <li>ManipulationLimbCore</li>
+    </tags>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>BodySlime</defName>
+    <label>slime body</label>
+    <hitPoints>200</hitPoints>
+    <frostbiteVulnerability>1.5</frostbiteVulnerability>
+    <alive>true</alive>
+    <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+    <skinCovered>true</skinCovered>
+    <tags>
+      <li>MovingLimbCore</li>
+      <li>ManipulationLimbCore</li>
+      <li>HearingSource</li>
+    </tags>
+  </BodyPartDef>
+
+  <BodyPartDef>
+    <defName>SlimeMouth</defName>
+    <label>mouth</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryChanceFactor>0.01</permanentInjuryChanceFactor>
+    <skinCovered>true</skinCovered>
+    <tags>
+      <li>EatingSource</li>
+      <li>TalkingSource</li>
+    </tags>
+  </BodyPartDef>
+</Defs>

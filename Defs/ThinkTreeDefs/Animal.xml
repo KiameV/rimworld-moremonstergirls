@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ThinkTreeDef>
+        <defName>Insert_Monstergirls</defName>
+        <insertTag>Animal_PreWander</insertTag>
+        <insertPriority>100</insertPriority>
+        <thinkRoot Class="ThinkNode_ConditionalOfPlayerFaction">
+            <subNodes>
+                <li Class="ThinkNode_ConditionalTrainableCompleted">
+                    <trainable>Obedience</trainable>
+                    <subNodes>
+                        <li Class="monstergirls.ThinkNode_ConditionalColonyHasPawnKindDef">
+                        <pawnKindDefs>
+						     	         <li>BlackHarpy</li>
+							             <li>Centaur</li>
+                           <li>Cowgirl</li>
+						               <li>Dragongirl</li>
+							             <li>Dryad</li>
+							             <li>FairyForest</li>
+							             <li>FairyIce</li>
+							             <li>Harpy</li>
+							             <li>Impmother</li>
+							             <li>Thrumbomorph</li>
+                        </pawnKindDefs>
+                        <subNodes>
+                            <li Class="monstergirls.ThinkNode_ConditionalPawnMatchesAnyDef">
+                                <defs>
+								                   <li>BlackHarpy</li>
+									                 <li>Centaur</li>
+									                 <li>Cowgirl</li>
+								               	   <li>Dragongirl</li>
+									                 <li>Dryad</li>
+									                 <li>FairyForest</li>
+									                 <li>FairyIce</li>
+									                 <li>Harpy</li>
+									                 <li>Impmother</li>
+									                 <li>Thrumbomorph</li>
+                                </defs>
+                                <subNodes>
+                                    <li Class="monstergirls.JobGiver_GenericWorkGiver">
+                                        <workGiverDef>CleanFilth</workGiverDef>
+								                      	</li>		
+								                        	<li Class="monstergirls.JobGiver_GenericWorkGiver">
+								                      		<workGiverDef>Mine</workGiverDef>
+								                      	</li>	
+						                      			<li Class="monstergirls.JobGiver_GenericWorkGiver">
+								                      		<workGiverDef>PlantsCut</workGiverDef>
+							                      		</li>
+							                      		<li Class="monstergirls.JobGiver_GenericWorkGiver">
+							                      			<workGiverDef>Strip</workGiverDef>
+						                      			</li>
+					                      				<li Class="monstergirls.JobGiver_GenericWorkGiver">
+						                      				<workGiverDef>GrowerHarvest</workGiverDef>
+					                      				</li>
+				                      					<li Class="monstergirls.JobGiver_GenericWorkGiver">
+				                      						<workGiverDef>Slaughter</workGiverDef>
+				                      					</li>
+									
+                                </subNodes>
+                            </li>
+                        </subNodes>
+                        </li>
+                    </subNodes>
+                </li>
+            </subNodes>
+        </thinkRoot>
+    </ThinkTreeDef>
+</Defs>
