@@ -8,7 +8,7 @@
     <description>An omnivorous creature that appears as a human woman with wings, talons and a beak. Black harpies produce eggs and live in boreal forests and tundras. They are larger, stronger and meaner than their southern cousins. They also prefer meat. Their feathers can be used for clothing, similar to wool.</description>
     <statBases>
       <MoveSpeed>6.2</MoveSpeed>
-      <ComfyTemperatureMin>-40</ComfyTemperatureMin>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <MarketValue>500</MarketValue>
     </statBases>
     <race>
@@ -143,7 +143,7 @@
       <min>1</min>
       <max>4</max>
     </wildGroupSize>
-    <minGenerationAge>0.1</minGenerationAge>
+    <minGenerationAge>1</minGenerationAge>
     <maxGenerationAge>55</maxGenerationAge>
     <labelMale>black harpyman</labelMale>
     <labelFemale>black harpy</labelFemale>

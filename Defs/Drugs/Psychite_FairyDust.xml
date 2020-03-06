@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
   <ThingDef ParentName="MakeableDrugBase">
     <defName>FairyDust</defName>
     <label>fairy dust</label>
@@ -36,7 +35,7 @@
       <useEatingSpeedStat>false</useEatingSpeedStat>
       <outcomeDoers>
         <li Class="IngestionOutcomeDoer_GiveHediff">
-          <hediffDef>YayoHigh</hediffDef>
+          <hediffDef>FairyDustHigh</hediffDef>
           <severity>0.75</severity>
           <toleranceChemical>Psychite</toleranceChemical>
         </li>
@@ -80,8 +79,9 @@
   </ThingDef>
 
   <HediffDef>
-    <defName>YayoHigh</defName>
+    <defName>FairyDustHigh</defName>
     <hediffClass>HediffWithComps</hediffClass>
+    <description>Active fairy dust in the bloodstream. Generates an intense euphoric high.</description>
     <label>high on fairy dust</label>
     <labelNoun>a fairy dust high</labelNoun>
     <defaultLabelColor>(1,0,0.5)</defaultLabelColor>
@@ -108,9 +108,9 @@
   </HediffDef>
 
   <ThoughtDef>
-    <defName>YayoHigh</defName>
+    <defName>FairyDustHigh</defName>
     <workerClass>ThoughtWorker_Hediff</workerClass>
-    <hediff>YayoHigh</hediff>
+    <hediff>FairyDustHigh</hediff>
     <validWhileDespawned>true</validWhileDespawned>
     <stages>
       <li>
@@ -120,117 +120,4 @@
       </li>
     </stages>
   </ThoughtDef>
-
-  <!-- Psychite addiction -->
-
-  <ChemicalDef>
-    <defName>Psychite</defName>
-    <label>psychite</label>
-    <addictionHediff>PsychiteAddiction</addictionHediff>
-    <toleranceHediff>PsychiteTolerance</toleranceHediff>
-    <onGeneratedAddictedToleranceChance>0.8</onGeneratedAddictedToleranceChance>
-    <onGeneratedAddictedEvents>
-      <li>
-        <hediff>ChemicalDamageSevere</hediff>
-        <chance>0.15</chance>
-        <partsToAffect>
-          <li>Kidney</li>
-        </partsToAffect>
-      </li>
-    </onGeneratedAddictedEvents>
-  </ChemicalDef>
-
-  <NeedDef ParentName="DrugAddictionNeedBase">
-    <defName>Chemical_Psychite</defName>
-    <needClass>Need_Chemical</needClass>
-    <label>psychite</label>
-    <description>Because of a psychite addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</description>
-    <listPriority>50</listPriority>
-  </NeedDef>
-
-  <HediffDef ParentName="DrugToleranceBase">
-    <defName>PsychiteTolerance</defName>
-    <label>psychite tolerance</label>
-    <comps>
-      <li Class="HediffCompProperties_SeverityPerDay">
-        <severityPerDay>-0.015</severityPerDay>
-      </li>
-      <li Class="HediffCompProperties_DrugEffectFactor">
-        <chemical>Psychite</chemical>
-      </li>
-    </comps>
-    <hediffGivers>
-      <li Class="HediffGiver_RandomDrugEffect">
-        <hediff>ChemicalDamageSevere</hediff>
-        <minSeverity>0.50</minSeverity>
-        <baseMtbDays>120</baseMtbDays>
-        <partsToAffect>
-          <li>Kidney</li>
-        </partsToAffect>
-      </li>
-    </hediffGivers>
-  </HediffDef>
-
-  <HediffDef ParentName="AddictionBase">
-    <defName>PsychiteAddiction</defName>
-    <hediffClass>Hediff_Addiction</hediffClass>
-    <label>psychite addiction</label>
-    <causesNeed>Chemical_Psychite</causesNeed>
-    <comps>
-      <li Class="HediffCompProperties_SeverityPerDay">
-        <severityPerDay>-0.0333</severityPerDay>
-      </li>
-    </comps>
-    <stages>
-      <li>
-      </li>
-      <li>
-        <label>withdrawal</label>
-        <restFallFactorOffset>0.3</restFallFactorOffset>
-        <socialFightChanceFactor>3.0</socialFightChanceFactor>
-        <capMods>
-          <li>
-            <capacity>Consciousness</capacity>
-            <offset>-0.20</offset>
-          </li>
-          <li>
-            <capacity>Moving</capacity>
-            <offset>-0.20</offset>
-          </li>
-          <li>
-            <capacity>Manipulation</capacity>
-            <offset>-0.20</offset>
-          </li>
-        </capMods>
-        <mentalStateGivers>
-          <li>
-            <mentalState>Binging_DrugExtreme</mentalState>
-            <mtbDays>40</mtbDays>
-          </li>
-          <li>
-            <mentalState>Wander_Psychotic</mentalState>
-            <mtbDays>10</mtbDays>
-          </li>
-        </mentalStateGivers>
-      </li>
-    </stages>
-  </HediffDef>
-
-  <ThoughtDef>
-    <defName>PsychiteWithdrawal</defName>
-    <workerClass>ThoughtWorker_Hediff</workerClass>
-    <hediff>PsychiteAddiction</hediff>
-    <validWhileDespawned>true</validWhileDespawned>
-    <stages>
-      <li>
-        <visible>false</visible>
-      </li>
-      <li>
-        <label>psychite withdrawal</label>
-        <description>God I'm tired. And nothing feels good any more.</description>
-        <baseMoodEffect>-35</baseMoodEffect>
-      </li>
-    </stages>
-  </ThoughtDef>
-
 </Defs>

@@ -897,7 +897,104 @@
 				<!-- End of Thrumbomorph -->
 				
 				
-				
+				<!-- Foxgirl -->
+			
+				<li Class="PatchOperationAddModExtension">
+					<xpath>Defs/ThingDef[defName="Foxgirl"]</xpath>
+					<value>
+						<li Class="CombatExtended.RacePropertiesExtensionCE">
+							<bodyShape>Humanoid</bodyShape>
+						</li>
+					</value>
+				</li>
+
+				<!-- Basic Melee Stats -->
+
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/ThingDef[defName="Foxgirl"]/statBases</xpath>
+					<value>
+						<MeleeDodgeChance>0.2</MeleeDodgeChance>
+						<MeleeCritChance>0.2</MeleeCritChance>
+						<MeleeParryChance>0.15</MeleeParryChance>
+					</value>
+				</li>
+
+				<!-- Melee Tools -->
+
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/ThingDef[defName="Foxgirl"]/tools</xpath>
+					<value>
+						<tools>
+
+							
+							
+							
+							
+							<li Class="CombatExtended.ToolCE">
+								<label>teeth</label>
+								<capacities>
+									<li>Bite</li>
+								</capacities>
+								<power>6</power>
+								<cooldownTime>2.6</cooldownTime>
+								<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+								<armorPenetration>0.3</armorPenetration>
+								<chanceFactor>0.7</chanceFactor>
+							</li>
+							
+							
+							
+							
+							<li Class="CombatExtended.ToolCE">
+								<label>left fist</label>
+								<capacities>
+									<li>Blunt</li>
+								</capacities>
+								<power>6</power>
+								<cooldownTime>1.6</cooldownTime>
+								<linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+								<surpriseAttack>
+									<extraMeleeDamages>
+										<li>
+											<def>Stun</def>
+											<amount>16</amount>
+										</li>
+									</extraMeleeDamages>
+								</surpriseAttack>
+								<armorPenetration>0.1</armorPenetration>
+							</li>
+
+
+
+							<li Class="CombatExtended.ToolCE">
+								<label>right fist</label>
+								<capacities>
+									<li>Blunt</li>
+								</capacities>
+								<power>6</power>
+								<cooldownTime>1.6</cooldownTime>
+								<linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+								<surpriseAttack>
+									<extraMeleeDamages>
+										<li>
+											<def>Stun</def>
+											<amount>16</amount>
+										</li>
+									</extraMeleeDamages>
+								</surpriseAttack>
+								<armorPenetration>0.1</armorPenetration>
+							</li>
+																					
+							
+							
+						</tools>
+					</value>
+				</li>		
+						
+							
+							
+
+				<!-- End of Foxgirl -->
 				
 				
 				

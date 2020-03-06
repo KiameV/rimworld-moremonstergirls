@@ -1,33 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-	<ModMetaData>
-		<name>MoreMonstergirls Enhanced Version 1.0 (And CE + A Dog Said compatibility)</name>
-		<author>Azraeth</author>
-		<targetVersion>1.0</targetVersion>
-		<description>
-		
-Enhanced version of wagon's MoreMonstergirls updated for 1.0, and patched for various mods.
+<ModMetaData>
+	<name>More Monster Girls - 1.1 (CE + A Dog Said)</name>
+	<author>wagon</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>moremonstergirls.rw</packageId>
+	<description>
 
-This is the Enhanced version, a different version than the only one that has been available on steam and patched for 1.0, where monster girls that have finished their obedience training can help with some work.
+The Monstergirls have come to join your colony.
 
-Monstergirls that have finished Obedience training can:
-- Clean
-- Mine
-- Cut Plants
-- Slaughter marked creatures
-- Strip marked people
+They are:
+The cowgirls, who make nice milk.
+The foxgirls, who are sneaky.
+The pack animals, centaurs and dryads.
+The black harpies and red harpies, who produce beautful plumage.
+The ice fairies and forest fairies, who produce weird dust.
+The slimegirls, who make red potions.
+The strange creature, the Impmother.
+The thrumbogirls and the dragongirls, who are strong fighters.
 
-Mind it only work in the home area.
-
-Of course, they can haul too when the training is done.
-
-This is working for all monster girls that have advanced intelligence; which means all of them besides Slimes.
-
-Finally, they will produce different products like milk, eggs, wool and feathers for you to benefit from; where the Slime produce Red Goo that can be used like an herbal medicine, 
-and the fairies produce some dust than can be used as a drug.
-
-
-I've made the mod compatible with Combat Extended (you do not need the mod; you can play without it if you don't want to use it), and also added compatibility with A dog Said mod. 
-You just need to have A Dog Said, and LBE's A Dog Said Easy Patcher mods, and it will automatically work.
+All are advanced intelligence except slimegirls. They are good to keep as pets.
 
 Loading order:
 - CORE
@@ -37,11 +31,8 @@ Loading order:
 - This mod
 
 
-
-
-
 All credit due to the original author of this mod, wagon!
 
 
-		</description>
-	</ModMetaData>
+	</description>
+</ModMetaData>

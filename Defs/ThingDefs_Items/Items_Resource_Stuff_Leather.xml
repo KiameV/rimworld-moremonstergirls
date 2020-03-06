@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
-
   <ThingDef ParentName="LeatherBase">
     <defName>Leather_Cowgirl</defName>
     <label>cowgirl hide</label>
@@ -17,6 +15,25 @@
     </statBases>
     <stuffProps>
       <color>201,201,201</color>
+      <commonality>0.13</commonality>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Foxgirl</defName>
+    <label>foxgirl leather</label>
+    <description>Tanned, dried, scraped foxgirl skin.  You did it, didn't you?  You killed a cute, innocent foxgirl for this.  You Monster!</description>
+    <graphicData>
+      <color>173,99,32</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>1.9</MarketValue>
+      <StuffPower_Armor_Sharp>0.54</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.14</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>12</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>12</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>173,99,32</color>
       <commonality>0.13</commonality>
     </stuffProps>
   </ThingDef>
