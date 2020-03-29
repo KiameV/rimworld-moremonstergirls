@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+   <name>More Monster Girls Enhanced Patch - 1.1</name>
+   <author>wagon</author>
+   <supportedVersions>
+      <li>1.0</li>
+      <li>1.1</li>
+   </supportedVersions>
+   <packageId>moremonstergirls.enhanced.rw</packageId>
+   <description>Enhanced version of wagon's MoreMonstergirls updated for 1.1, and patched for various mods.
+
+This is the Enhanced version, a different version than the only one that has been available on steam and patched for 1.0, where monster girls that have finished their obedience training can help with some work.
+
+Monstergirls that have finished Obedience training can:
+- Clean
+- Mine
+- Cut Plants
+- Slaughter marked creatures
+- Strip marked people
+
+Mind it only work in the home area.
+
+Of course, they can haul too when the training is done.
+
+This is working for all monster girls that have advanced intelligence; which means all of them besides Slimes.
+
+Finally, they will produce different products like milk, eggs, wool and feathers for you to benefit from; where the Slime produce Red Goo that can be used like an herbal medicine, 
+and the fairies produce some dust than can be used as a drug.
+
+
+I've made the mod compatible with Combat Extended (you do not need the mod; you can play without it if you don't want to use it), and also added compatibility with A dog Said mod. 
+You just need to have A Dog Said, and LBE's A Dog Said Easy Patcher mods, and it will automatically work.
+
+Loading order:
+- CORE
+- More Monster Girls - 1.1
+- More Monster Girls Enhanced Patch - 1.1
+
+All credit due to the original author of this mod, wagon!
+</description>
+<modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+</modDependencies>
+</ModMetaData>
+

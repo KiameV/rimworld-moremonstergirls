@@ -1,0 +1,18 @@
+C:\RimWorld1393Win\Mods\more monstergirls\Source\monstergirls\monstergirls\obj\Release\monstergirls.csprojResolveAssemblyReference.cache
+C:\RimWorld1393Win\Mods\more monstergirls\Source\Assemblies\monstergirls.dll
+C:\RimWorld1393Win\Mods\more monstergirls\Source\monstergirls\monstergirls\obj\Release\monstergirls.dll
+C:\RimWorld1393Win\Mods\more monstergirls\Assemblies\monstergirls.dll
+C:\RimWorld1393Win\Mods\more monstergirls\Source\monstergirls\obj\Release\monstergirls.csprojResolveAssemblyReference.cache
+C:\RimWorld1393Win\Mods\more monstergirls\Source\monstergirls\obj\Release\monstergirls.dll
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\860692531\Assemblies\monstergirls.dll
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\860692531\Source\monstergirls\obj\Release\monstergirls.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\860692531\Source\monstergirls\obj\Release\monstergirls.dll
+D:\misc stuff\rimworld stuff\more monstergirls\Assemblies\monstergirls.dll
+D:\misc stuff\rimworld stuff\more monstergirls\Source\monstergirls\obj\Release\monstergirls.csprojResolveAssemblyReference.cache
+D:\misc stuff\rimworld stuff\more monstergirls\Source\monstergirls\obj\Release\monstergirls.dll
+D:\misc stuff\rimworld stuff\rimworld monstergirl stuff\[B18]More Monstergirls Enhanced\Assemblies\monstergirls.dll
+D:\misc stuff\rimworld stuff\rimworld monstergirl stuff\[B18]More Monstergirls Enhanced\Source\monstergirls\obj\Release\monstergirls.csprojResolveAssemblyReference.cache
+D:\misc stuff\rimworld stuff\rimworld monstergirl stuff\[B18]More Monstergirls Enhanced\Source\monstergirls\obj\Release\monstergirls.dll
+D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monstergirls.csprojAssemblyReference.cache
+D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monstergirls.dll
+D:\Steam\steamapps\common\RimWorld\Mods\MoreMonsterGirlsEnhancedPatch\Assemblies\monstergirls.dll
