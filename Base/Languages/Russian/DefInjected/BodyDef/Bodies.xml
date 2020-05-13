@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Human.label>человек</Human.label>
+  <Human.corePart.parts.6.customLabel>левое лёгкое</Human.corePart.parts.6.customLabel>
+  <Human.corePart.parts.7.customLabel>правое лёгкое</Human.corePart.parts.7.customLabel>
+  <Human.corePart.parts.8.customLabel>левая почка</Human.corePart.parts.8.customLabel>
+  <Human.corePart.parts.9.customLabel>правая почка</Human.corePart.parts.9.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</Human.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</Human.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</Human.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</Human.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Human.corePart.parts.12.customLabel>левое плечо</Human.corePart.parts.12.customLabel>
+  <Human.corePart.parts.12.parts.0.customLabel>левая ключица</Human.corePart.parts.12.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.customLabel>левая рука</Human.corePart.parts.12.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.0.customLabel>левая плечевая кость</Human.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.1.customLabel>левая лучевая кость</Human.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.customLabel>левая кисть</Human.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>левый мизинец</Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>левый средний палец</Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>левый большой палец</Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.13.customLabel>правое плечо</Human.corePart.parts.13.customLabel>
+  <Human.corePart.parts.13.parts.0.customLabel>правая ключица</Human.corePart.parts.13.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.customLabel>правая рука</Human.corePart.parts.13.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</Human.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</Human.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.customLabel>правая кисть</Human.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>правый средний палец</Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>правый большой палец</Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.15.customLabel>левая нога</Human.corePart.parts.15.customLabel>
+  <Human.corePart.parts.15.parts.0.customLabel>левая бедренная кость</Human.corePart.parts.15.parts.0.customLabel>
+  <Human.corePart.parts.15.parts.1.customLabel>левая берцовая кость</Human.corePart.parts.15.parts.1.customLabel>
+  <Human.corePart.parts.15.parts.2.customLabel>левая ступня</Human.corePart.parts.15.parts.2.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.0.customLabel>левый мизинец ноги</Human.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.1.customLabel>левый четвёртый палец ноги</Human.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.2.customLabel>левый средний палец ноги</Human.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.3.customLabel>левый второй палец ноги</Human.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.4.customLabel>левый большой палец ноги</Human.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.16.customLabel>правая нога</Human.corePart.parts.16.customLabel>
+  <Human.corePart.parts.16.parts.0.customLabel>правая бедренная кость</Human.corePart.parts.16.parts.0.customLabel>
+  <Human.corePart.parts.16.parts.1.customLabel>правая берцовая кость</Human.corePart.parts.16.parts.1.customLabel>
+  <Human.corePart.parts.16.parts.2.customLabel>правая ступня</Human.corePart.parts.16.parts.2.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.0.customLabel>правый мизинец ноги</Human.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.1.customLabel>правый четвёртый палец ноги</Human.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.2.customLabel>правый средний палец ноги</Human.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.3.customLabel>правый второй палец ноги</Human.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.4.customLabel>правый большой палец ноги</Human.corePart.parts.16.parts.2.parts.4.customLabel>
+
+  <Thrumbomorph.label>трумбоморф</Thrumbomorph.label>
+  <Thrumbomorph.corePart.parts.7.customLabel>левое лёгкое</Thrumbomorph.corePart.parts.7.customLabel>
+  <Thrumbomorph.corePart.parts.8.customLabel>правое лёгкое</Thrumbomorph.corePart.parts.8.customLabel>
+  <Thrumbomorph.corePart.parts.9.customLabel>левая почка</Thrumbomorph.corePart.parts.9.customLabel>
+  <Thrumbomorph.corePart.parts.10.customLabel>правая почка</Thrumbomorph.corePart.parts.10.customLabel>
+  <Thrumbomorph.corePart.parts.12.parts.0.parts.2.customLabel>левый глаз</Thrumbomorph.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Thrumbomorph.corePart.parts.12.parts.0.parts.3.customLabel>правый глаз</Thrumbomorph.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Thrumbomorph.corePart.parts.12.parts.0.parts.4.customLabel>левое ухо</Thrumbomorph.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Thrumbomorph.corePart.parts.12.parts.0.parts.5.customLabel>правое ухо</Thrumbomorph.corePart.parts.12.parts.0.parts.5.customLabel>
+  <Thrumbomorph.corePart.parts.13.customLabel>левое плечо</Thrumbomorph.corePart.parts.13.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.0.customLabel>левая ключица</Thrumbomorph.corePart.parts.13.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.customLabel>левая рука</Thrumbomorph.corePart.parts.13.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Thrumbomorph.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Thrumbomorph.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.2.customLabel>левая кисть</Thrumbomorph.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>левый мизинец</Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>левый средний палец</Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>левый большой палец</Thrumbomorph.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Thrumbomorph.corePart.parts.14.customLabel>правое плечо</Thrumbomorph.corePart.parts.14.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.0.customLabel>правая ключица</Thrumbomorph.corePart.parts.14.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.customLabel>правая рука</Thrumbomorph.corePart.parts.14.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Thrumbomorph.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Thrumbomorph.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.2.customLabel>правая кисть</Thrumbomorph.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>правый мизинец</Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>правый средний палец</Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>правый большой палец</Thrumbomorph.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Thrumbomorph.corePart.parts.16.customLabel>левая нога</Thrumbomorph.corePart.parts.16.customLabel>
+  <Thrumbomorph.corePart.parts.16.parts.0.customLabel>левая бедренная кость</Thrumbomorph.corePart.parts.16.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.16.parts.1.customLabel>левая берцовая кость</Thrumbomorph.corePart.parts.16.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.16.parts.2.customLabel>левое копыто</Thrumbomorph.corePart.parts.16.parts.2.customLabel>
+  <Thrumbomorph.corePart.parts.17.customLabel>правая нога</Thrumbomorph.corePart.parts.17.customLabel>
+  <Thrumbomorph.corePart.parts.17.parts.0.customLabel>правая бедренная кость</Thrumbomorph.corePart.parts.17.parts.0.customLabel>
+  <Thrumbomorph.corePart.parts.17.parts.1.customLabel>правая берцовая кость</Thrumbomorph.corePart.parts.17.parts.1.customLabel>
+  <Thrumbomorph.corePart.parts.17.parts.2.customLabel>правое копыто</Thrumbomorph.corePart.parts.17.parts.2.customLabel>
+
+  <Slime.label>монстрослизь</Slime.label>
+  <Slime.corePart.parts.2.customLabel>левое лёгкое</Slime.corePart.parts.2.customLabel>
+  <Slime.corePart.parts.3.customLabel>правое лёгкое</Slime.corePart.parts.3.customLabel>
+  <Slime.corePart.parts.4.customLabel>левая почка</Slime.corePart.parts.4.customLabel>
+  <Slime.corePart.parts.5.customLabel>правая почка</Slime.corePart.parts.5.customLabel>
+  <Slime.corePart.parts.7.parts.0.parts.1.customLabel>левый глаз</Slime.corePart.parts.7.parts.0.parts.1.customLabel>
+  <Slime.corePart.parts.7.parts.0.parts.2.customLabel>правый глаз</Slime.corePart.parts.7.parts.0.parts.2.customLabel>
+  <Slime.corePart.parts.7.parts.0.parts.3.customLabel>левое ухо</Slime.corePart.parts.7.parts.0.parts.3.customLabel>
+  <Slime.corePart.parts.7.parts.0.parts.4.customLabel>правое ухо</Slime.corePart.parts.7.parts.0.parts.4.customLabel>
+
+  <Impish.label>бес</Impish.label>
+  <Impish.corePart.parts.7.customLabel>левое лёгкое</Impish.corePart.parts.7.customLabel>
+  <Impish.corePart.parts.8.customLabel>правое лёгкое</Impish.corePart.parts.8.customLabel>
+  <Impish.corePart.parts.9.customLabel>левая почка</Impish.corePart.parts.9.customLabel>
+  <Impish.corePart.parts.10.customLabel>правая почка</Impish.corePart.parts.10.customLabel>
+  <Impish.corePart.parts.12.parts.0.parts.1.customLabel>правый рог</Impish.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Impish.corePart.parts.12.parts.0.parts.2.customLabel>левый рог</Impish.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Impish.corePart.parts.12.parts.0.parts.3.customLabel>левый глаз</Impish.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Impish.corePart.parts.12.parts.0.parts.4.customLabel>правый глаз</Impish.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Impish.corePart.parts.12.parts.0.parts.5.customLabel>левое ухо</Impish.corePart.parts.12.parts.0.parts.5.customLabel>
+  <Impish.corePart.parts.12.parts.0.parts.6.customLabel>правое ухо</Impish.corePart.parts.12.parts.0.parts.6.customLabel>
+  <Impish.corePart.parts.13.customLabel>левое плечо</Impish.corePart.parts.13.customLabel>
+  <Impish.corePart.parts.13.parts.0.customLabel>левая ключица</Impish.corePart.parts.13.parts.0.customLabel>
+  <Impish.corePart.parts.13.parts.1.customLabel>левая рука</Impish.corePart.parts.13.parts.1.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Impish.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Impish.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.2.customLabel>левая кисть</Impish.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>левый мизинец</Impish.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Impish.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>левый средний палец</Impish.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Impish.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Impish.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>левый большой палец</Impish.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Impish.corePart.parts.14.customLabel>правое плечо</Impish.corePart.parts.14.customLabel>
+  <Impish.corePart.parts.14.parts.0.customLabel>правая ключица</Impish.corePart.parts.14.parts.0.customLabel>
+  <Impish.corePart.parts.14.parts.1.customLabel>правая рука</Impish.corePart.parts.14.parts.1.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Impish.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Impish.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.2.customLabel>правая кисть</Impish.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>правый мизинец</Impish.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Impish.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>правый средний палец</Impish.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Impish.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Impish.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>правый большой палец</Impish.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Impish.corePart.parts.16.customLabel>левая нога</Impish.corePart.parts.16.customLabel>
+  <Impish.corePart.parts.16.parts.0.customLabel>левая бедренная кость</Impish.corePart.parts.16.parts.0.customLabel>
+  <Impish.corePart.parts.16.parts.1.customLabel>левая берцовая кость</Impish.corePart.parts.16.parts.1.customLabel>
+  <Impish.corePart.parts.16.parts.2.customLabel>левая ступня</Impish.corePart.parts.16.parts.2.customLabel>
+  <Impish.corePart.parts.16.parts.2.parts.0.customLabel>левый мизинец ноги</Impish.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Impish.corePart.parts.16.parts.2.parts.1.customLabel>левый четвёртый палец ноги</Impish.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Impish.corePart.parts.16.parts.2.parts.2.customLabel>левый средний палец ноги</Impish.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Impish.corePart.parts.16.parts.2.parts.3.customLabel>левый второй палец ноги</Impish.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Impish.corePart.parts.16.parts.2.parts.4.customLabel>левый большой палец ноги</Impish.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Impish.corePart.parts.17.customLabel>правая нога</Impish.corePart.parts.17.customLabel>
+  <Impish.corePart.parts.17.parts.0.customLabel>правая бедренная кость</Impish.corePart.parts.17.parts.0.customLabel>
+  <Impish.corePart.parts.17.parts.1.customLabel>правая берцовая кость</Impish.corePart.parts.17.parts.1.customLabel>
+  <Impish.corePart.parts.17.parts.2.customLabel>правая ступня</Impish.corePart.parts.17.parts.2.customLabel>
+  <Impish.corePart.parts.17.parts.2.parts.0.customLabel>правый мизинец ноги</Impish.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Impish.corePart.parts.17.parts.2.parts.1.customLabel>правый четвёртый палец ноги</Impish.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Impish.corePart.parts.17.parts.2.parts.2.customLabel>правый средний палец ноги</Impish.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Impish.corePart.parts.17.parts.2.parts.3.customLabel>правый второй палец ноги</Impish.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Impish.corePart.parts.17.parts.2.parts.4.customLabel>правый большой палец ноги</Impish.corePart.parts.17.parts.2.parts.4.customLabel>
+
+  <Harpy.label>гарпия</Harpy.label>
+  <Harpy.corePart.parts.7.customLabel>левое лёгкое</Harpy.corePart.parts.7.customLabel>
+  <Harpy.corePart.parts.8.customLabel>правое лёгкое</Harpy.corePart.parts.8.customLabel>
+  <Harpy.corePart.parts.9.customLabel>левая почка</Harpy.corePart.parts.9.customLabel>
+  <Harpy.corePart.parts.10.customLabel>правая почка</Harpy.corePart.parts.10.customLabel>
+  <Harpy.corePart.parts.12.parts.0.parts.1.customLabel>левый глаз</Harpy.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Harpy.corePart.parts.12.parts.0.parts.2.customLabel>правый глаз</Harpy.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Harpy.corePart.parts.13.customLabel>левое плечо</Harpy.corePart.parts.13.customLabel>
+  <Harpy.corePart.parts.13.parts.0.customLabel>левая ключица</Harpy.corePart.parts.13.parts.0.customLabel>
+  <Harpy.corePart.parts.13.parts.1.customLabel>левое крыло</Harpy.corePart.parts.13.parts.1.customLabel>
+  <Harpy.corePart.parts.14.customLabel>правое плечо</Harpy.corePart.parts.14.customLabel>
+  <Harpy.corePart.parts.14.parts.0.customLabel>правая ключица</Harpy.corePart.parts.14.parts.0.customLabel>
+  <Harpy.corePart.parts.14.parts.1.customLabel>правое крыло</Harpy.corePart.parts.14.parts.1.customLabel>
+  <Harpy.corePart.parts.16.customLabel>левая нога</Harpy.corePart.parts.16.customLabel>
+  <Harpy.corePart.parts.16.parts.0.customLabel>левая ступня</Harpy.corePart.parts.16.parts.0.customLabel>
+  <Harpy.corePart.parts.17.customLabel>правая нога</Harpy.corePart.parts.17.customLabel>
+  <Harpy.corePart.parts.17.parts.0.customLabel>правая ступня</Harpy.corePart.parts.17.parts.0.customLabel>
+
+  <Foxgirl.label>лисичка</Foxgirl.label>
+  <Foxgirl.corePart.parts.7.customLabel>левое лёгкое</Foxgirl.corePart.parts.7.customLabel>
+  <Foxgirl.corePart.parts.8.customLabel>правое лёгкое</Foxgirl.corePart.parts.8.customLabel>
+  <Foxgirl.corePart.parts.9.customLabel>левая почка</Foxgirl.corePart.parts.9.customLabel>
+  <Foxgirl.corePart.parts.10.customLabel>правая почка</Foxgirl.corePart.parts.10.customLabel>
+  <Foxgirl.corePart.parts.12.parts.0.parts.1.customLabel>левый глаз</Foxgirl.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Foxgirl.corePart.parts.12.parts.0.parts.2.customLabel>правый глаз</Foxgirl.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Foxgirl.corePart.parts.12.parts.0.parts.3.customLabel>левое ухо</Foxgirl.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Foxgirl.corePart.parts.12.parts.0.parts.4.customLabel>правое ухо</Foxgirl.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Foxgirl.corePart.parts.13.customLabel>левое плечо</Foxgirl.corePart.parts.13.customLabel>
+  <Foxgirl.corePart.parts.13.parts.0.customLabel>левая ключица</Foxgirl.corePart.parts.13.parts.0.customLabel>
+  <Foxgirl.corePart.parts.13.parts.1.customLabel>левая рука</Foxgirl.corePart.parts.13.parts.1.customLabel>
+  <Foxgirl.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Foxgirl.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Foxgirl.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Foxgirl.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Foxgirl.corePart.parts.13.parts.1.parts.2.customLabel>левая лапа</Foxgirl.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Foxgirl.corePart.parts.14.customLabel>правое плечо</Foxgirl.corePart.parts.14.customLabel>
+  <Foxgirl.corePart.parts.14.parts.0.customLabel>правая ключица</Foxgirl.corePart.parts.14.parts.0.customLabel>
+  <Foxgirl.corePart.parts.14.parts.1.customLabel>правая рука</Foxgirl.corePart.parts.14.parts.1.customLabel>
+  <Foxgirl.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Foxgirl.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Foxgirl.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Foxgirl.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Foxgirl.corePart.parts.14.parts.1.parts.2.customLabel>правая лапа</Foxgirl.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Foxgirl.corePart.parts.16.customLabel>левая нога</Foxgirl.corePart.parts.16.customLabel>
+  <Foxgirl.corePart.parts.16.parts.0.customLabel>левая бедренная кость</Foxgirl.corePart.parts.16.parts.0.customLabel>
+  <Foxgirl.corePart.parts.16.parts.1.customLabel>левая берцовая кость</Foxgirl.corePart.parts.16.parts.1.customLabel>
+  <Foxgirl.corePart.parts.16.parts.2.customLabel>левая задняя лапа</Foxgirl.corePart.parts.16.parts.2.customLabel>
+  <Foxgirl.corePart.parts.17.customLabel>правая нога</Foxgirl.corePart.parts.17.customLabel>
+  <Foxgirl.corePart.parts.17.parts.0.customLabel>правая бедренная кость</Foxgirl.corePart.parts.17.parts.0.customLabel>
+  <Foxgirl.corePart.parts.17.parts.1.customLabel>правая берцовая кость</Foxgirl.corePart.parts.17.parts.1.customLabel>
+  <Foxgirl.corePart.parts.17.parts.2.customLabel>правая задняя лапа</Foxgirl.corePart.parts.17.parts.2.customLabel>
+
+  <Fairy.label>фея</Fairy.label>
+  <Fairy.corePart.parts.6.customLabel>левое лёгкое</Fairy.corePart.parts.6.customLabel>
+  <Fairy.corePart.parts.7.customLabel>правое лёгкое</Fairy.corePart.parts.7.customLabel>
+  <Fairy.corePart.parts.8.customLabel>левая почка</Fairy.corePart.parts.8.customLabel>
+  <Fairy.corePart.parts.9.customLabel>правая почка</Fairy.corePart.parts.9.customLabel>
+  <Fairy.corePart.parts.11.parts.0.parts.1.customLabel>левый глаз</Fairy.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Fairy.corePart.parts.11.parts.0.parts.2.customLabel>правый глаз</Fairy.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Fairy.corePart.parts.11.parts.0.parts.3.customLabel>левое ухо</Fairy.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Fairy.corePart.parts.11.parts.0.parts.4.customLabel>правое ухо</Fairy.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Fairy.corePart.parts.12.customLabel>левое плечо</Fairy.corePart.parts.12.customLabel>
+  <Fairy.corePart.parts.12.parts.0.customLabel>левая ключица</Fairy.corePart.parts.12.parts.0.customLabel>
+  <Fairy.corePart.parts.12.parts.1.customLabel>левая рука</Fairy.corePart.parts.12.parts.1.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.0.customLabel>левая плечевая кость</Fairy.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.1.customLabel>левая лучевая кость</Fairy.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.2.customLabel>левая кисть</Fairy.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>левый мизинец</Fairy.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Fairy.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>левый средний палец</Fairy.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Fairy.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Fairy.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>левый большой палец</Fairy.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Fairy.corePart.parts.13.customLabel>правое плечо</Fairy.corePart.parts.13.customLabel>
+  <Fairy.corePart.parts.13.parts.0.customLabel>правая ключица</Fairy.corePart.parts.13.parts.0.customLabel>
+  <Fairy.corePart.parts.13.parts.1.customLabel>правая рука</Fairy.corePart.parts.13.parts.1.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</Fairy.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</Fairy.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.2.customLabel>правая кисть</Fairy.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</Fairy.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Fairy.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>правый средний палец</Fairy.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Fairy.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Fairy.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>правый большой палец</Fairy.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Fairy.corePart.parts.15.customLabel>левая нога</Fairy.corePart.parts.15.customLabel>
+  <Fairy.corePart.parts.15.parts.0.customLabel>левая бедренная кость</Fairy.corePart.parts.15.parts.0.customLabel>
+  <Fairy.corePart.parts.15.parts.1.customLabel>левая берцовая кость</Fairy.corePart.parts.15.parts.1.customLabel>
+  <Fairy.corePart.parts.15.parts.2.customLabel>левая ступня</Fairy.corePart.parts.15.parts.2.customLabel>
+  <Fairy.corePart.parts.15.parts.2.parts.0.customLabel>левый мизинец ноги</Fairy.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Fairy.corePart.parts.15.parts.2.parts.1.customLabel>левый четвёртый палец ноги</Fairy.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Fairy.corePart.parts.15.parts.2.parts.2.customLabel>левый средний палец ноги</Fairy.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Fairy.corePart.parts.15.parts.2.parts.3.customLabel>левый второй палец ноги</Fairy.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Fairy.corePart.parts.15.parts.2.parts.4.customLabel>левый большой палец ноги</Fairy.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Fairy.corePart.parts.16.customLabel>правая нога</Fairy.corePart.parts.16.customLabel>
+  <Fairy.corePart.parts.16.parts.0.customLabel>правая бедренная кость</Fairy.corePart.parts.16.parts.0.customLabel>
+  <Fairy.corePart.parts.16.parts.1.customLabel>правая берцовая кость</Fairy.corePart.parts.16.parts.1.customLabel>
+  <Fairy.corePart.parts.16.parts.2.customLabel>правая ступня</Fairy.corePart.parts.16.parts.2.customLabel>
+  <Fairy.corePart.parts.16.parts.2.parts.0.customLabel>правый мизинец ноги</Fairy.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Fairy.corePart.parts.16.parts.2.parts.1.customLabel>правый четвёртый палец ноги</Fairy.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Fairy.corePart.parts.16.parts.2.parts.2.customLabel>правый средний палец ноги</Fairy.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Fairy.corePart.parts.16.parts.2.parts.3.customLabel>правый второй палец ноги</Fairy.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Fairy.corePart.parts.16.parts.2.parts.4.customLabel>правый большой палец ноги</Fairy.corePart.parts.16.parts.2.parts.4.customLabel>
+
+  <Dryad.label>дриада</Dryad.label>
+  <Dryad.corePart.parts.7.customLabel>левое лёгкое</Dryad.corePart.parts.7.customLabel>
+  <Dryad.corePart.parts.8.customLabel>правое лёгкое</Dryad.corePart.parts.8.customLabel>
+  <Dryad.corePart.parts.9.customLabel>левая почка</Dryad.corePart.parts.9.customLabel>
+  <Dryad.corePart.parts.10.customLabel>правая почка</Dryad.corePart.parts.10.customLabel>
+  <Dryad.corePart.parts.12.parts.0.parts.1.customLabel>левый глаз</Dryad.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Dryad.corePart.parts.12.parts.0.parts.2.customLabel>правый глаз</Dryad.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Dryad.corePart.parts.12.parts.0.parts.3.customLabel>левое ухо</Dryad.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Dryad.corePart.parts.12.parts.0.parts.4.customLabel>правое ухо</Dryad.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Dryad.corePart.parts.13.customLabel>левое плечо</Dryad.corePart.parts.13.customLabel>
+  <Dryad.corePart.parts.13.parts.0.customLabel>левая ключица</Dryad.corePart.parts.13.parts.0.customLabel>
+  <Dryad.corePart.parts.13.parts.1.customLabel>левая рука</Dryad.corePart.parts.13.parts.1.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Dryad.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Dryad.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.2.customLabel>левая кисть</Dryad.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>левый мизинец</Dryad.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Dryad.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>левый средний палец</Dryad.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Dryad.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Dryad.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>левый большой палец</Dryad.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Dryad.corePart.parts.14.customLabel>правое плечо</Dryad.corePart.parts.14.customLabel>
+  <Dryad.corePart.parts.14.parts.0.customLabel>правая ключица</Dryad.corePart.parts.14.parts.0.customLabel>
+  <Dryad.corePart.parts.14.parts.1.customLabel>правая рука</Dryad.corePart.parts.14.parts.1.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Dryad.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Dryad.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.2.customLabel>правая кисть</Dryad.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>правый мизинец</Dryad.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Dryad.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>правый средний палец</Dryad.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Dryad.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Dryad.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>правый большой палец</Dryad.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Dryad.corePart.parts.15.customLabel>передняя левая нога</Dryad.corePart.parts.15.customLabel>
+  <Dryad.corePart.parts.15.parts.0.customLabel>переднее левое копыто</Dryad.corePart.parts.15.parts.0.customLabel>
+  <Dryad.corePart.parts.16.customLabel>передняя правая нога</Dryad.corePart.parts.16.customLabel>
+  <Dryad.corePart.parts.16.parts.0.customLabel>переднее правое копыто</Dryad.corePart.parts.16.parts.0.customLabel>
+  <Dryad.corePart.parts.17.customLabel>задняя левая нога</Dryad.corePart.parts.17.customLabel>
+  <Dryad.corePart.parts.17.parts.0.customLabel>заднее левое копыто</Dryad.corePart.parts.17.parts.0.customLabel>
+  <Dryad.corePart.parts.18.customLabel>задняя правая нога</Dryad.corePart.parts.18.customLabel>
+  <Dryad.corePart.parts.18.parts.0.customLabel>заднее правое копыто</Dryad.corePart.parts.18.parts.0.customLabel>
+
+  <Dragongirl.label>драконоид</Dragongirl.label>
+  <Dragongirl.corePart.parts.8.customLabel>левое лёгкое</Dragongirl.corePart.parts.8.customLabel>
+  <Dragongirl.corePart.parts.9.customLabel>правое лёгкое</Dragongirl.corePart.parts.9.customLabel>
+  <Dragongirl.corePart.parts.10.customLabel>левая почка</Dragongirl.corePart.parts.10.customLabel>
+  <Dragongirl.corePart.parts.11.customLabel>правая почка</Dragongirl.corePart.parts.11.customLabel>
+  <Dragongirl.corePart.parts.13.parts.0.parts.1.customLabel>левый глаз</Dragongirl.corePart.parts.13.parts.0.parts.1.customLabel>
+  <Dragongirl.corePart.parts.13.parts.0.parts.2.customLabel>правый глаз</Dragongirl.corePart.parts.13.parts.0.parts.2.customLabel>
+  <Dragongirl.corePart.parts.13.parts.0.parts.3.customLabel>левое ухо</Dragongirl.corePart.parts.13.parts.0.parts.3.customLabel>
+  <Dragongirl.corePart.parts.13.parts.0.parts.4.customLabel>правое ухо</Dragongirl.corePart.parts.13.parts.0.parts.4.customLabel>
+  <Dragongirl.corePart.parts.14.customLabel>левое плечо</Dragongirl.corePart.parts.14.customLabel>
+  <Dragongirl.corePart.parts.14.parts.0.customLabel>левая ключица</Dragongirl.corePart.parts.14.parts.0.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.customLabel>левая рука</Dragongirl.corePart.parts.14.parts.1.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.0.customLabel>левая плечевая кость</Dragongirl.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.1.customLabel>левая лучевая кость</Dragongirl.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.2.customLabel>левая кисть</Dragongirl.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>левый мизинец</Dragongirl.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Dragongirl.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>левый средний палец</Dragongirl.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Dragongirl.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Dragongirl.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>левый большой палец</Dragongirl.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Dragongirl.corePart.parts.15.customLabel>правое плечо</Dragongirl.corePart.parts.15.customLabel>
+  <Dragongirl.corePart.parts.15.parts.0.customLabel>правая ключица</Dragongirl.corePart.parts.15.parts.0.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.customLabel>правая рука</Dragongirl.corePart.parts.15.parts.1.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.0.customLabel>правая плечевая кость</Dragongirl.corePart.parts.15.parts.1.parts.0.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.1.customLabel>правая лучевая кость</Dragongirl.corePart.parts.15.parts.1.parts.1.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.2.customLabel>правая кисть</Dragongirl.corePart.parts.15.parts.1.parts.2.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.2.parts.0.customLabel>правый мизинец</Dragongirl.corePart.parts.15.parts.1.parts.2.parts.0.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Dragongirl.corePart.parts.15.parts.1.parts.2.parts.1.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.2.parts.2.customLabel>правый средний палец</Dragongirl.corePart.parts.15.parts.1.parts.2.parts.2.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Dragongirl.corePart.parts.15.parts.1.parts.2.parts.3.customLabel>
+  <Dragongirl.corePart.parts.15.parts.1.parts.2.parts.4.customLabel>правый большой палец</Dragongirl.corePart.parts.15.parts.1.parts.2.parts.4.customLabel>
+  <Dragongirl.corePart.parts.17.customLabel>левая нога</Dragongirl.corePart.parts.17.customLabel>
+  <Dragongirl.corePart.parts.17.parts.0.customLabel>левая бедренная кость</Dragongirl.corePart.parts.17.parts.0.customLabel>
+  <Dragongirl.corePart.parts.17.parts.1.customLabel>левая берцовая кость</Dragongirl.corePart.parts.17.parts.1.customLabel>
+  <Dragongirl.corePart.parts.17.parts.2.customLabel>левая ступня</Dragongirl.corePart.parts.17.parts.2.customLabel>
+  <Dragongirl.corePart.parts.17.parts.2.parts.0.customLabel>левый мизинец ноги</Dragongirl.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Dragongirl.corePart.parts.17.parts.2.parts.1.customLabel>левый четвёртый палец ноги</Dragongirl.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Dragongirl.corePart.parts.17.parts.2.parts.2.customLabel>левый средний палец ноги</Dragongirl.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Dragongirl.corePart.parts.17.parts.2.parts.3.customLabel>левый второй палец ноги</Dragongirl.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Dragongirl.corePart.parts.17.parts.2.parts.4.customLabel>левый большой палец ноги</Dragongirl.corePart.parts.17.parts.2.parts.4.customLabel>
+  <Dragongirl.corePart.parts.18.customLabel>правая нога</Dragongirl.corePart.parts.18.customLabel>
+  <Dragongirl.corePart.parts.18.parts.0.customLabel>правая бедренная кость</Dragongirl.corePart.parts.18.parts.0.customLabel>
+  <Dragongirl.corePart.parts.18.parts.1.customLabel>правая берцовая кость</Dragongirl.corePart.parts.18.parts.1.customLabel>
+  <Dragongirl.corePart.parts.18.parts.2.customLabel>правая ступня</Dragongirl.corePart.parts.18.parts.2.customLabel>
+  <Dragongirl.corePart.parts.18.parts.2.parts.0.customLabel>правый мизинец ноги</Dragongirl.corePart.parts.18.parts.2.parts.0.customLabel>
+  <Dragongirl.corePart.parts.18.parts.2.parts.1.customLabel>правый четвёртый палец ноги</Dragongirl.corePart.parts.18.parts.2.parts.1.customLabel>
+  <Dragongirl.corePart.parts.18.parts.2.parts.2.customLabel>правый средний палец ноги</Dragongirl.corePart.parts.18.parts.2.parts.2.customLabel>
+  <Dragongirl.corePart.parts.18.parts.2.parts.3.customLabel>правый второй палец ноги</Dragongirl.corePart.parts.18.parts.2.parts.3.customLabel>
+  <Dragongirl.corePart.parts.18.parts.2.parts.4.customLabel>правый большой палец ноги</Dragongirl.corePart.parts.18.parts.2.parts.4.customLabel>
+
+  <Cowgirl.label>коровка</Cowgirl.label>
+  <Cowgirl.corePart.parts.7.customLabel>левое лёгкое</Cowgirl.corePart.parts.7.customLabel>
+  <Cowgirl.corePart.parts.8.customLabel>правое лёгкое</Cowgirl.corePart.parts.8.customLabel>
+  <Cowgirl.corePart.parts.9.customLabel>левая почка</Cowgirl.corePart.parts.9.customLabel>
+  <Cowgirl.corePart.parts.10.customLabel>правая почка</Cowgirl.corePart.parts.10.customLabel>
+  <Cowgirl.corePart.parts.12.parts.0.parts.1.customLabel>левый глаз</Cowgirl.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Cowgirl.corePart.parts.12.parts.0.parts.2.customLabel>правый глаз</Cowgirl.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Cowgirl.corePart.parts.12.parts.0.parts.3.customLabel>левое ухо</Cowgirl.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Cowgirl.corePart.parts.12.parts.0.parts.4.customLabel>правое ухо</Cowgirl.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Cowgirl.corePart.parts.13.customLabel>левое плечо</Cowgirl.corePart.parts.13.customLabel>
+  <Cowgirl.corePart.parts.13.parts.0.customLabel>левая ключица</Cowgirl.corePart.parts.13.parts.0.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.customLabel>левая рука</Cowgirl.corePart.parts.13.parts.1.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Cowgirl.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Cowgirl.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.2.customLabel>левая кисть</Cowgirl.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>левый мизинец</Cowgirl.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Cowgirl.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>левый средний палец</Cowgirl.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Cowgirl.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Cowgirl.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>левый большой палец</Cowgirl.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Cowgirl.corePart.parts.14.customLabel>правое плечо</Cowgirl.corePart.parts.14.customLabel>
+  <Cowgirl.corePart.parts.14.parts.0.customLabel>правая ключица</Cowgirl.corePart.parts.14.parts.0.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.customLabel>правая рука</Cowgirl.corePart.parts.14.parts.1.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Cowgirl.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Cowgirl.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.2.customLabel>правая кисть</Cowgirl.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>правый мизинец</Cowgirl.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Cowgirl.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>правый средний палец</Cowgirl.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Cowgirl.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Cowgirl.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>правый большой палец</Cowgirl.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Cowgirl.corePart.parts.16.customLabel>левая нога</Cowgirl.corePart.parts.16.customLabel>
+  <Cowgirl.corePart.parts.16.parts.0.customLabel>левая бедренная кость</Cowgirl.corePart.parts.16.parts.0.customLabel>
+  <Cowgirl.corePart.parts.16.parts.1.customLabel>левая берцовая кость</Cowgirl.corePart.parts.16.parts.1.customLabel>
+  <Cowgirl.corePart.parts.16.parts.2.customLabel>левое копыто</Cowgirl.corePart.parts.16.parts.2.customLabel>
+  <Cowgirl.corePart.parts.17.customLabel>правая нога</Cowgirl.corePart.parts.17.customLabel>
+  <Cowgirl.corePart.parts.17.parts.0.customLabel>правая бедренная кость</Cowgirl.corePart.parts.17.parts.0.customLabel>
+  <Cowgirl.corePart.parts.17.parts.1.customLabel>правая берцовая кость</Cowgirl.corePart.parts.17.parts.1.customLabel>
+  <Cowgirl.corePart.parts.17.parts.2.customLabel>правое копыто</Cowgirl.corePart.parts.17.parts.2.customLabel>
+
+  <Centaur.label>кентавр</Centaur.label>
+  <Centaur.corePart.parts.7.customLabel>левое лёгкое</Centaur.corePart.parts.7.customLabel>
+  <Centaur.corePart.parts.8.customLabel>правое лёгкое</Centaur.corePart.parts.8.customLabel>
+  <Centaur.corePart.parts.9.customLabel>левая почка</Centaur.corePart.parts.9.customLabel>
+  <Centaur.corePart.parts.10.customLabel>правая почка</Centaur.corePart.parts.10.customLabel>
+  <Centaur.corePart.parts.12.parts.0.parts.1.customLabel>левый глаз</Centaur.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Centaur.corePart.parts.12.parts.0.parts.2.customLabel>правый глаз</Centaur.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Centaur.corePart.parts.12.parts.0.parts.3.customLabel>левое ухо</Centaur.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Centaur.corePart.parts.12.parts.0.parts.4.customLabel>правое ухо</Centaur.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Centaur.corePart.parts.13.customLabel>левое плечо</Centaur.corePart.parts.13.customLabel>
+  <Centaur.corePart.parts.13.parts.0.customLabel>левая ключица</Centaur.corePart.parts.13.parts.0.customLabel>
+  <Centaur.corePart.parts.13.parts.1.customLabel>левая рука</Centaur.corePart.parts.13.parts.1.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Centaur.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Centaur.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.2.customLabel>левая кисть</Centaur.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>левый мизинец</Centaur.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>левый безымянный палец</Centaur.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>левый средний палец</Centaur.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>левый указательный палец</Centaur.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Centaur.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>левый большой палец</Centaur.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Centaur.corePart.parts.14.customLabel>правое плечо</Centaur.corePart.parts.14.customLabel>
+  <Centaur.corePart.parts.14.parts.0.customLabel>правая ключица</Centaur.corePart.parts.14.parts.0.customLabel>
+  <Centaur.corePart.parts.14.parts.1.customLabel>правая рука</Centaur.corePart.parts.14.parts.1.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Centaur.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Centaur.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.2.customLabel>правая кисть</Centaur.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>правый мизинец</Centaur.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>правый безымянный палец</Centaur.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>правый средний палец</Centaur.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>правый указательный палец</Centaur.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Centaur.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>правый большой палец</Centaur.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Centaur.corePart.parts.15.customLabel>передняя левая нога</Centaur.corePart.parts.15.customLabel>
+  <Centaur.corePart.parts.15.parts.0.customLabel>переднее левое копыто</Centaur.corePart.parts.15.parts.0.customLabel>
+  <Centaur.corePart.parts.16.customLabel>передняя правая нога</Centaur.corePart.parts.16.customLabel>
+  <Centaur.corePart.parts.16.parts.0.customLabel>переднее правое копыто</Centaur.corePart.parts.16.parts.0.customLabel>
+  <Centaur.corePart.parts.17.customLabel>задняя левая нога</Centaur.corePart.parts.17.customLabel>
+  <Centaur.corePart.parts.17.parts.0.customLabel>заднее левое копыто</Centaur.corePart.parts.17.parts.0.customLabel>
+  <Centaur.corePart.parts.18.customLabel>задняя правая нога</Centaur.corePart.parts.18.customLabel>
+  <Centaur.corePart.parts.18.parts.0.customLabel>заднее правое копыто</Centaur.corePart.parts.18.parts.0.customLabel>
+
+</LanguageData>
