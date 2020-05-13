@@ -2,7 +2,7 @@
 <Defs>
 
 
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>Harpy</defName>
     <label>harpy</label>
     <description>An omnivorous creature that appears as a human woman with wings, talons and a beak. Harpies produce eggs and live in arid regions. In combat, they are delicate, but fast with powerful attacks. They reproduce quickly and can be extremely dangerous in large groups. Their feathers can be used for clothing, similar to wool.</description>

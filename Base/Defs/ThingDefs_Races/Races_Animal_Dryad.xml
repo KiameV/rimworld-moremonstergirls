@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
     <defName>Dryad</defName>
     <label>dryad</label>
     <description>A forest-dwelling cousin of the centaur. Dryads are smaller and more docile, but quickly grow long, silky hair that can be used as wool.</description>

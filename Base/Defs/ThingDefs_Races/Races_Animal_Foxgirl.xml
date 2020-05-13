@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>Foxgirl</defName>
     <label>foxgirl</label>
     <description>A sly and cunning animal. Foxgirls are most often found hunting in forestes and grasslands.</description>
@@ -136,7 +136,9 @@
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-      <li>AnimalCommon</li>
+		<li>AnimalCommon</li>
+		<li>AnimalFarm</li>
+		<li>AnimalExotic</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">

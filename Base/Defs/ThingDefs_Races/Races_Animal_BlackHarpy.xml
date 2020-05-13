@@ -2,7 +2,7 @@
 <Defs>
 
 
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>BlackHarpy</defName>
     <label>black harpy</label>
     <description>An omnivorous creature that appears as a human woman with wings, talons and a beak. Black harpies produce eggs and live in boreal forests and tundras. They are larger, stronger and meaner than their southern cousins. They also prefer meat. Their feathers can be used for clothing, similar to wool.</description>

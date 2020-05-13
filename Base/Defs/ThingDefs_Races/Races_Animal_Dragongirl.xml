@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>Dragongirl</defName>
     <label>dragonoid</label>
     <description>Dragonoids are a very powerful combat animal. Their bodies are covered in thick defensive scales and they can tear their prey apart with their teeth and claws. They are most common in arid regions.</description>

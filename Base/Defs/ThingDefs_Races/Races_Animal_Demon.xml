@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>Impmother</defName>
     <label>imp mother</label>
     <description>A demonic creature. Imps were developed by larger, more intelligent demons to serve as menial slaves. They have a very unusual lifespan, only reaching adulthood in the last 8 years of their life. However, an adult imp (called an impmother) produces offspring very rapidly and produces enough milk to make a cow blush. Their personalities are mischievous and they love attention, but they can become very attached to their mother or owner. They prefer hot climates.</description>
