@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <BlackHarpy.label>чёрная гарпия</BlackHarpy.label>
   <BlackHarpy.labelPlural>чёрные гарпии</BlackHarpy.labelPlural>
   <BlackHarpy.lifeStages.0.label>цыплёнок чёрной гарпии</BlackHarpy.lifeStages.0.label>
-  <BlackHarpy.lifeStages.0.labelPlural>циплята чёрных гарпий</BlackHarpy.lifeStages.0.labelPlural>
+  <BlackHarpy.lifeStages.0.labelPlural>цыплята чёрных гарпий</BlackHarpy.lifeStages.0.labelPlural>
   <BlackHarpy.lifeStages.0.labelMale>цыплёнок самец чёрной гарпии</BlackHarpy.lifeStages.0.labelMale>
   <BlackHarpy.lifeStages.0.labelMalePlural>цыплята самцы чёрной гарпии</BlackHarpy.lifeStages.0.labelMalePlural>
   <BlackHarpy.lifeStages.0.labelFemale>цыплёнок чёрная гарпия</BlackHarpy.lifeStages.0.labelFemale>
@@ -205,24 +205,24 @@
   <Foxgirl.labelPlural>лисички</Foxgirl.labelPlural>
   <Foxgirl.lifeStages.0.label>детёныш лисички</Foxgirl.lifeStages.0.label>
   <Foxgirl.lifeStages.0.labelPlural>детёныши лисичек</Foxgirl.lifeStages.0.labelPlural>
-  <Foxgirl.lifeStages.0.labelMale>лисёнок</Foxgirl.lifeStages.0.labelMale>
-  <Foxgirl.lifeStages.0.labelMalePlural>лисята</Foxgirl.lifeStages.0.labelMalePlural>
-  <Foxgirl.lifeStages.0.labelFemale>лисёнок</Foxgirl.lifeStages.0.labelFemale>
-  <Foxgirl.lifeStages.0.labelFemalePlural>лисята</Foxgirl.lifeStages.0.labelFemalePlural>
+  <Foxgirl.lifeStages.0.labelMale>детёныш лисец</Foxgirl.lifeStages.0.labelMale>
+  <Foxgirl.lifeStages.0.labelMalePlural>детёныши лисцы</Foxgirl.lifeStages.0.labelMalePlural>
+  <Foxgirl.lifeStages.0.labelFemale>детёныш лисичка</Foxgirl.lifeStages.0.labelFemale>
+  <Foxgirl.lifeStages.0.labelFemalePlural>детёныши лисички</Foxgirl.lifeStages.0.labelFemalePlural>
   <Foxgirl.lifeStages.1.label>молодая лисичка</Foxgirl.lifeStages.1.label>
   <Foxgirl.lifeStages.1.labelPlural>молодняк лисичек</Foxgirl.lifeStages.1.labelPlural>
-  <Foxgirl.lifeStages.1.labelMale>молодой лис</Foxgirl.lifeStages.1.labelMale>
-  <Foxgirl.lifeStages.1.labelMalePlural>молодые лисы</Foxgirl.lifeStages.1.labelMalePlural>
+  <Foxgirl.lifeStages.1.labelMale>молодой лисец</Foxgirl.lifeStages.1.labelMale>
+  <Foxgirl.lifeStages.1.labelMalePlural>молодые лисцы</Foxgirl.lifeStages.1.labelMalePlural>
   <Foxgirl.lifeStages.1.labelFemale>молодая лисичка</Foxgirl.lifeStages.1.labelFemale>
   <Foxgirl.lifeStages.1.labelFemalePlural>молодые лисички</Foxgirl.lifeStages.1.labelFemalePlural>
   <Foxgirl.lifeStages.2.label>лисичка</Foxgirl.lifeStages.2.label>
   <Foxgirl.lifeStages.2.labelPlural>лисички</Foxgirl.lifeStages.2.labelPlural>
-  <Foxgirl.lifeStages.2.labelMale>лис</Foxgirl.lifeStages.2.labelMale>
-  <Foxgirl.lifeStages.2.labelMalePlural>лисы</Foxgirl.lifeStages.2.labelMalePlural>
+  <Foxgirl.lifeStages.2.labelMale>лисец</Foxgirl.lifeStages.2.labelMale>
+  <Foxgirl.lifeStages.2.labelMalePlural>лисцы</Foxgirl.lifeStages.2.labelMalePlural>
   <Foxgirl.lifeStages.2.labelFemale>лисичка</Foxgirl.lifeStages.2.labelFemale>
   <Foxgirl.lifeStages.2.labelFemalePlural>лисички</Foxgirl.lifeStages.2.labelFemalePlural>
-  <Foxgirl.labelMale>лис</Foxgirl.labelMale>
-  <Foxgirl.labelMalePlural>лисы</Foxgirl.labelMalePlural>
+  <Foxgirl.labelMale>лисец</Foxgirl.labelMale>
+  <Foxgirl.labelMalePlural>лисцы</Foxgirl.labelMalePlural>
   <Foxgirl.labelFemale>лисичка</Foxgirl.labelFemale>
   <Foxgirl.labelFemalePlural>лисички</Foxgirl.labelFemalePlural>
   
@@ -255,26 +255,26 @@
   <Slime.labelPlural>монстрослизи</Slime.labelPlural>
   <Slime.lifeStages.0.label>детёныш монстрослизи</Slime.lifeStages.0.label>
   <Slime.lifeStages.0.labelPlural>детёныши монстрослизи</Slime.lifeStages.0.labelPlural>
-  <Slime.lifeStages.0.labelMale>детёныш монстрослизень</Slime.lifeStages.0.labelMale>
-  <Slime.lifeStages.0.labelMalePlural>детёныши монстрослизни</Slime.lifeStages.0.labelMalePlural>
-  <Slime.lifeStages.0.labelFemale>детёныш монстрослизь</Slime.lifeStages.0.labelFemale>
-  <Slime.lifeStages.0.labelFemalePlural>детёныши монстрослизи</Slime.lifeStages.0.labelFemalePlural>
+  <Slime.lifeStages.0.labelMale>детёныш синяя монстрослизи</Slime.lifeStages.0.labelMale>
+  <Slime.lifeStages.0.labelMalePlural>детёныши синие монстрослизи</Slime.lifeStages.0.labelMalePlural>
+  <Slime.lifeStages.0.labelFemale>детёныш красная монстрослизь</Slime.lifeStages.0.labelFemale>
+  <Slime.lifeStages.0.labelFemalePlural>детёныши красные монстрослизи</Slime.lifeStages.0.labelFemalePlural>
   <Slime.lifeStages.1.label>молодая монстрослизь</Slime.lifeStages.1.label>
   <Slime.lifeStages.1.labelPlural>молодняк монстрослизи</Slime.lifeStages.1.labelPlural>
-  <Slime.lifeStages.1.labelMale>молодой монстрослизень</Slime.lifeStages.1.labelMale>
-  <Slime.lifeStages.1.labelMalePlural>молодые монстрослизни</Slime.lifeStages.1.labelMalePlural>
-  <Slime.lifeStages.1.labelFemale>молодая монстрослизь</Slime.lifeStages.1.labelFemale>
-  <Slime.lifeStages.1.labelFemalePlural>молодые монстрослизи</Slime.lifeStages.1.labelFemalePlural>
+  <Slime.lifeStages.1.labelMale>молодая синяя монстрослизь</Slime.lifeStages.1.labelMale>
+  <Slime.lifeStages.1.labelMalePlural>молодые синие монстрослизи</Slime.lifeStages.1.labelMalePlural>
+  <Slime.lifeStages.1.labelFemale>молодая красная монстрослизь</Slime.lifeStages.1.labelFemale>
+  <Slime.lifeStages.1.labelFemalePlural>молодые красные монстрослизи</Slime.lifeStages.1.labelFemalePlural>
   <Slime.lifeStages.2.label>монстрослизь</Slime.lifeStages.2.label>
   <Slime.lifeStages.2.labelPlural>монстрослизи</Slime.lifeStages.2.labelPlural>
-  <Slime.lifeStages.2.labelMale>монстрослизень</Slime.lifeStages.2.labelMale>
-  <Slime.lifeStages.2.labelMalePlural>монстрослизни</Slime.lifeStages.2.labelMalePlural>
-  <Slime.lifeStages.2.labelFemale>монстрослизь</Slime.lifeStages.2.labelFemale>
-  <Slime.lifeStages.2.labelFemalePlural>монстрослизи</Slime.lifeStages.2.labelFemalePlural>
-  <Slime.labelMale>монстрослизень</Slime.labelMale>
-  <Slime.labelMalePlural>монстрослизни</Slime.labelMalePlural>
-  <Slime.labelFemale>монстрослизь</Slime.labelFemale>
-  <Slime.labelFemalePlural>монстрослизи</Slime.labelFemalePlural>
+  <Slime.lifeStages.2.labelMale>синяя монстрослизь</Slime.lifeStages.2.labelMale>
+  <Slime.lifeStages.2.labelMalePlural>синие монстрослизи</Slime.lifeStages.2.labelMalePlural>
+  <Slime.lifeStages.2.labelFemale>красная монстрослизь</Slime.lifeStages.2.labelFemale>
+  <Slime.lifeStages.2.labelFemalePlural>красные монстрослизи</Slime.lifeStages.2.labelFemalePlural>
+  <Slime.labelMale>синяя монстрослизь</Slime.labelMale>
+  <Slime.labelMalePlural>синие монстрослизи</Slime.labelMalePlural>
+  <Slime.labelFemale>красная монстрослизь</Slime.labelFemale>
+  <Slime.labelFemalePlural>красные монстрослизи</Slime.labelFemalePlural>
   
   <Thrumbomorph.label>трумбоморф</Thrumbomorph.label>
   <Thrumbomorph.labelPlural>трумбоморфы</Thrumbomorph.labelPlural>
