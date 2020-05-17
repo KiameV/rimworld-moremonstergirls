@@ -158,7 +158,9 @@
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-      <li>AnimalCommon</li>
+		<li>AnimalCommon</li>
+		<li>AnimalFarm</li>
+		<li>AnimalExotic</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">

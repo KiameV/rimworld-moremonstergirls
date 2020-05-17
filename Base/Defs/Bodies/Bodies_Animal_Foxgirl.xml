@@ -123,7 +123,7 @@
               <groups>
                 <li>UpperHead</li>
                 <li>FullHead</li>
-				<li>HeadAttackTool</li>
+                <li>HeadAttackTool</li>
               </groups>
               <parts>
                 <li>
@@ -246,13 +246,59 @@
                 </li>
                 <li>
                   <def>Hand</def>
-                  <customLabel>left claw</customLabel>
+                  <customLabel>left hand-paw</customLabel>
                   <coverage>0.14</coverage>
                   <height>Bottom</height>
                   <groups>
                     <li>FrontLeftPaw</li>
                   </groups>
-                  <parts/>
+                  <parts>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>left pinky</customLabel>
+                      <coverage>0.06</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>LeftHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>left ring finger</customLabel>
+                      <coverage>0.07</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>LeftHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>left middle finger</customLabel>
+                      <coverage>0.08</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>LeftHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>left index finger</customLabel>
+                      <coverage>0.07</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>LeftHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>left thumb</customLabel>
+                      <coverage>0.08</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>LeftHand</li>
+                      </groups>
+                    </li>
+                  </parts>
                 </li>
               </parts>
             </li>
@@ -304,13 +350,59 @@
                 </li>
                 <li>
                   <def>Hand</def>
-                  <customLabel>right claw</customLabel>
+                  <customLabel>right hand-paw</customLabel>
                   <coverage>0.14</coverage>
                   <height>Bottom</height>
                   <groups>
                     <li>FrontRightPaw</li>
                   </groups>
-                  <parts/>
+                  <parts>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>right pinky</customLabel>
+                      <coverage>0.06</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>RightHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>right ring finger</customLabel>
+                      <coverage>0.07</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>RightHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>right middle finger</customLabel>
+                      <coverage>0.08</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>RightHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>right index finger</customLabel>
+                      <coverage>0.07</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>RightHand</li>
+                      </groups>
+                    </li>
+                    <li>
+                      <def>Finger</def>
+                      <customLabel>right thumb</customLabel>
+                      <coverage>0.08</coverage>
+                      <groups>
+                        <li>Hands</li>
+                        <li>RightHand</li>
+                      </groups>
+                    </li>
+                  </parts>
                 </li>
               </parts>
             </li>
@@ -352,9 +444,13 @@
               </groups>
             </li>
 			<li>
-			  <def>Hoof</def>
-			  <customLabel>left hoof</customLabel>
-			  <coverage>0.15</coverage>
+			  <def>Paw</def>
+			  <customLabel>left foot-paw</customLabel>
+			  <coverage>0.1</coverage>
+              <groups>
+                <li>Feet</li>
+              </groups>
+              <parts/>
             </li>
           </parts>
         </li>
@@ -386,9 +482,13 @@
               </groups>
             </li>
             <li>
-              <def>Hoof</def>
-			  <customLabel>right hoof</customLabel>
-			  <coverage>0.15</coverage>
+              <def>Paw</def>
+			  <customLabel>right foot-paw</customLabel>
+			  <coverage>0.1</coverage>
+              <groups>
+                <li>Feet</li>
+              </groups>
+              <parts/>
             </li>
           </parts>
         </li>
