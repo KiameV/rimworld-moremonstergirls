@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MoreMonsterGirls>More Monster Girls</MoreMonsterGirls>
+
+	<MMG.Centaur>Centaur</MMG.Centaur>
+	<MMG.Cowgirl>Cowgirl</MMG.Cowgirl>
+	<MMG.Dragongirl>Dragongirl</MMG.Dragongirl>
+	<MMG.Dryad>Dryad</MMG.Dryad>
+	<MMG.FairyForest>Fairy - Forest</MMG.FairyForest>
+	<MMG.FairyIce>Fairy - Ice</MMG.FairyIce>
+	<MMG.FairyDust>Fairy Dust</MMG.FairyDust>
+	<MMG.Foxgirl>Foxgirl</MMG.Foxgirl>
+	<MMG.Harpy>Harpy</MMG.Harpy>
+	<MMG.BlackHarpy>Harpy - Black</MMG.BlackHarpy>
+	<MMG.Impmother>Imp Mother</MMG.Impmother>
+	<MMG.Slime>Slime</MMG.Slime>
+	<MMG.RedGoo>Red Goo</MMG.RedGoo>
+	<MMG.Thrumbomorph>Thrumbomorph</MMG.Thrumbomorph>
+	
+	
+	<MMG.Milk>Milk</MMG.Milk>
+	<MMG.Eggs>Eggs</MMG.Eggs>
+	<MMG.Hair>Hair</MMG.Hair>
+	<MMG.Wool>Wool</MMG.Wool>
+	<MMG.Scales>Scales</MMG.Scales>
+	<MMG.Feathers>Feathers</MMG.Feathers>
+	
+	<MMG.IntervalInDays>Interval in Days</MMG.IntervalInDays>
+	<MMG.Amount>Amount</MMG.Amount>
+	<MMG.CountRangeMinMax>Count Min - Max</MMG.CountRangeMinMax>
+	<MMG.FertalizedCountMax>Fertalized Count Max</MMG.FertalizedCountMax>
+</LanguageData>
