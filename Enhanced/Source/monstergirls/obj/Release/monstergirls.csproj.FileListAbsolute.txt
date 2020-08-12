@@ -16,3 +16,4 @@ D:\misc stuff\rimworld stuff\rimworld monstergirl stuff\[B18]More Monstergirls E
 D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monstergirls.csprojAssemblyReference.cache
 D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monstergirls.dll
 D:\Steam\steamapps\common\RimWorld\Mods\MoreMonsterGirlsEnhancedPatch\Assemblies\monstergirls.dll
+D:\Steam\steamapps\common\RimWorld\Mods\MoreMonsterGirlsEnhancedPatch\1.2\Assemblies\monstergirls.dll

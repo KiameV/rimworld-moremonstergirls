@@ -155,3 +155,115 @@ namespace monstergirls
         }
     }
 }
+/*
+            if (workGiverDef != null)
+            {
+                int num = -999;
+                TargetInfo val2 = TargetInfo.Invalid;
+                WorkGiver_Scanner val3 = null;
+                if (workGiverDef != null)
+                {
+                    WorkGiver worker2 = workGiverDef.Worker;
+                    if (worker2.def.priorityInType != num && val2.IsValid)
+                    {
+                        return null;
+                    }
+                    if (PawnCanUseWorkGiver(pawn, worker2))
+                    {
+                        try
+                        {
+                            Job val4 = worker2.NonScanJob(pawn);
+                            if (val4 != null)
+                            {
+                                return val4;
+                            }
+                            WorkGiver_Scanner scanner = worker2 as WorkGiver_Scanner;
+                            if (scanner != null)
+                            {
+                                if (worker2.def.scanThings)
+                                {
+                                    Predicate<Thing> predicate = (Thing t) => !ForbidUtility.IsForbidden(t, pawn) && scanner.HasJobOnThing(pawn, t, false);
+                                    IEnumerable<Thing> enumerable = scanner.PotentialWorkThingsGlobal(pawn);
+                                    Thing val5;
+                                    if (scanner.Prioritized)
+                                    {
+                                        IEnumerable<Thing> enumerable2 = enumerable;
+                                        if (enumerable2 == null)
+                                        {
+                                            enumerable2 = ((Thing)pawn).Map.listerThings.ThingsMatching(scanner.PotentialWorkThingRequest);
+                                        }
+                                        Predicate<Thing> predicate2 = predicate;
+                                        val5 = GenClosest.ClosestThing_Global_Reachable(((Thing)pawn).Position, ((Thing)pawn).Map, enumerable2, scanner.PathEndMode, TraverseParms.For(pawn, (Danger)3, (TraverseMode)0, false), 9999f, predicate2, (Func<Thing, float>)((Thing x) => scanner.GetPriority(pawn, x)));
+                                    }
+                                    else
+                                    {
+                                        Predicate<Thing> predicate3 = predicate;
+                                        bool flag = enumerable != null;
+                                        val5 = GenClosest.ClosestThingReachable(((Thing)pawn).Position, ((Thing)pawn).Map, scanner.PotentialWorkThingRequest, scanner.PathEndMode, TraverseParms.For(pawn, (Danger)3, (TraverseMode)0, false), 9999f, predicate3, enumerable, 0, 0, flag, (RegionType)6, false);
+                                    }
+                                    if (val5 != null)
+                                    {
+                                        val2 = val5;
+                                        val3 = scanner;
+                                    }
+                                }
+                                if (worker2.def.scanCells)
+                                {
+                                    IntVec3 position = ((Thing)pawn).Position;
+                                    float num2 = 99999f;
+                                    float num3 = float.MinValue;
+                                    bool prioritized = scanner.Prioritized;
+                                    foreach (IntVec3 item in scanner.PotentialWorkCellsGlobal(pawn))
+                                    {
+                                        bool flag2 = false;
+                                        IntVec3 val6 = item - position;
+                                        float num4 = val6.LengthHorizontalSquared;
+                                        if (prioritized)
+                                        {
+                                            if (!ForbidUtility.IsForbidden(item, pawn) && scanner.HasJobOnCell(pawn, item, false))
+                                            {
+                                                float priority = scanner.GetPriority(pawn, item);
+                                                if (priority > num3 || (priority == num3 && num4 < num2))
+                                                {
+                                                    flag2 = true;
+                                                    num3 = priority;
+                                                }
+                                            }
+                                        }
+                                        else if (num4 < num2 && !ForbidUtility.IsForbidden(item, pawn) && scanner.HasJobOnCell(pawn, item, false))
+                                        {
+                                            flag2 = true;
+                                        }
+                                        if (flag2)
+                                        {
+                                            val2 = new TargetInfo(item, pawn.Map, false);
+                                            val3 = scanner;
+                                            num2 = num4;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            Log.Message(pawn + " threw exception DONT WANT LAH in WorkGiver " + ((Def)worker2.def).defName + ": " + ex.ToString(), false);
+                        }
+                        finally
+                        {
+                        }
+                        if (val2.IsValid)
+                        {
+                            //pawn.mindState.lastGivenWorkType = worker2.def.workType;
+                            Job val7 = (!val2.HasThing) ? val3.JobOnCell(pawn, val2.Cell, false) : val3.JobOnThing(pawn, val2.Thing, false);
+                            if (val7 != null)
+                            {
+                                return val7;
+                            }
+                            Log.ErrorOnce(val3 + " provided target " + val2 + " but yielded no actual job for pawn " + pawn + ". The CanGiveJob and JobOnX methods may not be synchronized.", 6112651, false);
+                        }
+                        num = worker2.def.priorityInType;
+                    }
+                }
+            }
+            return null;
+ */

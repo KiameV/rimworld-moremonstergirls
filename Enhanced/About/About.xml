@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
-   <name>More Monster Girls Enhanced Patch - 1.1</name>
+   <name>More Monster Girls Enhanced Patch</name>
    <author>wagon</author>
    <supportedVersions>
       <li>1.0</li>
       <li>1.1</li>
+      <li>1.2</li>
    </supportedVersions>
    <packageId>moremonstergirls.enhanced.rw</packageId>
    <description>Enhanced version of wagon's MoreMonstergirls updated for 1.1, and patched for various mods.

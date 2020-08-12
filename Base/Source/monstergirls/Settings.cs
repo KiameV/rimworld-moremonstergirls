@@ -10,6 +10,7 @@ namespace monstergirlsbase
         private const float NEWLINE = 30;
         private const float NEW_SETTING = NEWLINE + 20;
 
+        private bool initialized = false;
         private Settings settings;
         private Vector2 scroll = Vector2.zero;
         private float y = 0;
@@ -28,6 +29,12 @@ namespace monstergirlsbase
         {
             Widgets.BeginScrollView(new Rect(0, 40, rect.width, rect.height - 50), ref scroll, new Rect(0, 0, rect.width - 16, y));
             y = 0;
+
+            if (!this.initialized)
+            {
+                settings.SetUnsetProductions();
+                this.initialized = true;
+            }
 
             Widgets.Label(new Rect(0, y, 150, 22), "MMG.Centaur".Translate());
             y += NEWLINE;
@@ -286,37 +293,64 @@ namespace monstergirlsbase
 
         private CompProperties_Milkable GetMilkCompProps(string defName)
         {
-            return DefDatabase<ThingDef>.GetNamed(defName).GetCompProperties<CompProperties_Milkable>();
+            var c = DefDatabase<ThingDef>.GetNamed(defName).GetCompProperties<CompProperties_Milkable>();
+            if (c == null)
+            {
+                Log.ErrorOnce("unable to find monster girl " + defName, defName.GetHashCode());
+                return null;
+            }
+            return c;
         }
 
         private CompProperties_Shearable GetShearableCompProps(string defName)
         {
-            return DefDatabase<ThingDef>.GetNamed(defName).GetCompProperties<CompProperties_Shearable>();
+            var c = DefDatabase<ThingDef>.GetNamed(defName).GetCompProperties<CompProperties_Shearable>();
+            if (c == null)
+            {
+                Log.ErrorOnce("unable to find monster girl " + defName, defName.GetHashCode());
+                return null;
+            }
+            return c;
         }
 
         private CompProperties_EggLayer GetEggLayerCompProps(string defName)
         {
-            return DefDatabase<ThingDef>.GetNamed(defName).GetCompProperties<CompProperties_EggLayer>();
+            var c = DefDatabase<ThingDef>.GetNamed(defName).GetCompProperties<CompProperties_EggLayer>();
+            if (c == null)
+            {
+                Log.ErrorOnce("unable to find monster girl " + defName, defName.GetHashCode()); 
+                return null;
+            }
+            return c;
         }
 
         private void SetCompProps(CompProperties_Milkable compProps, Production p)
         {
-            compProps.milkAmount = p.Amount;
-            compProps.milkIntervalDays = p.IntervalDays;
+            if (compProps != null)
+            {
+                compProps.milkAmount = p.Amount;
+                compProps.milkIntervalDays = p.IntervalDays;
+            }
         }
 
         private void SetCompProps(CompProperties_Shearable compProps, Production p)
         {
-            compProps.woolAmount = p.Amount;
-            compProps.shearIntervalDays = p.IntervalDays;
+            if (compProps != null)
+            {
+                compProps.woolAmount = p.Amount;
+                compProps.shearIntervalDays = p.IntervalDays;
+            }
         }
 
         private void SetCompProps(CompProperties_EggLayer compProps, EggProduction p)
         {
-            compProps.eggCountRange.min = p.CountMin;
-            compProps.eggCountRange.max = p.CountMax;
-            compProps.eggFertilizationCountMax = p.FertalizedCountMax;
-            compProps.eggLayIntervalDays = p.IntervalDays;
+            if (compProps != null)
+            {
+                compProps.eggCountRange.min = p.CountMin;
+                compProps.eggCountRange.max = p.CountMax;
+                compProps.eggFertilizationCountMax = p.FertalizedCountMax;
+                compProps.eggLayIntervalDays = p.IntervalDays;
+            }
         }
 
         private bool DrawProductionInput(ref float y, Production p)
@@ -432,54 +466,59 @@ namespace monstergirlsbase
 
             if (Scribe.mode == LoadSaveMode.PostLoadInit)
             {
-                if (this.CentaurMilk == null)
-                    this.DefaultCentaurMilk();
-                if (this.CentaurHair == null)
-                    this.DefaultCentaurHair();
-
-                if (this.CowgirlMilk == null)
-                    this.DefaultCowgirl();
-
-                if (this.DragongirlMilk == null)
-                    this.DefaultDragongirlMilk();
-                if (this.DragongirlScales == null)
-                    this.DefaultDragongirlScales();
-
-                if (this.DryadMilk == null)
-                    this.DefaultDryadMilk();
-                if (this.DryadWool == null)
-                    this.DefaultDryadWool();
-
-                if (this.ForestFairyDust == null)
-                    this.DefaultFairyForest();
-
-                if (this.IceFairyDust == null)
-                    this.DefaultFairyIce();
-
-                if (this.FoxgirlMilk == null)
-                    this.DefaultFoxgirl();
-
-                if (this.HarpyEggs == null)
-                    this.DefaultHarpyEggs();
-                if (this.HarpyFeathers == null)
-                    this.DefaultHarpyFeathers();
-
-                if (this.BlackHarpyEggs == null)
-                    this.DefaultBlackHarpyEggs();
-                if (this.BlackHarpyFeathers == null)
-                    this.DefaultBlackHarpyFeathers();
-
-                if (this.ImpMotherMilk == null)
-                    this.DefaultImpMother();
-
-                if (this.SlimegirlSlime == null)
-                    this.DefaultSlimegirlSlime();
-
-                if (this.ThumbromorphMilk == null)
-                    this.DefaultThrumbomorphMilk();
-                if (this.ThumbromorphWool == null)
-                    this.DefaultThrumbomorphWool();
+                this.SetUnsetProductions();
             }
+        }
+
+        public void SetUnsetProductions()
+        {
+            if (this.CentaurMilk == null)
+                this.DefaultCentaurMilk();
+            if (this.CentaurHair == null)
+                this.DefaultCentaurHair();
+
+            if (this.CowgirlMilk == null)
+                this.DefaultCowgirl();
+
+            if (this.DragongirlMilk == null)
+                this.DefaultDragongirlMilk();
+            if (this.DragongirlScales == null)
+                this.DefaultDragongirlScales();
+
+            if (this.DryadMilk == null)
+                this.DefaultDryadMilk();
+            if (this.DryadWool == null)
+                this.DefaultDryadWool();
+
+            if (this.ForestFairyDust == null)
+                this.DefaultFairyForest();
+
+            if (this.IceFairyDust == null)
+                this.DefaultFairyIce();
+
+            if (this.FoxgirlMilk == null)
+                this.DefaultFoxgirl();
+
+            if (this.HarpyEggs == null)
+                this.DefaultHarpyEggs();
+            if (this.HarpyFeathers == null)
+                this.DefaultHarpyFeathers();
+
+            if (this.BlackHarpyEggs == null)
+                this.DefaultBlackHarpyEggs();
+            if (this.BlackHarpyFeathers == null)
+                this.DefaultBlackHarpyFeathers();
+
+            if (this.ImpMotherMilk == null)
+                this.DefaultImpMother();
+
+            if (this.SlimegirlSlime == null)
+                this.DefaultSlimegirlSlime();
+
+            if (this.ThumbromorphMilk == null)
+                this.DefaultThrumbomorphMilk();
+            if (this.ThumbromorphWool == null)
+                this.DefaultThrumbomorphWool();
         }
 
         public void DefaultCentaurMilk()
