@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
-  <ID>8381b8d9-74fd-43cf-8e1f-97834b167a63</ID>
   <ModName>More Monster Girls (CE + A Dog Said)</ModName>
-  <Version>1.2.0.0</Version>
+  <Version>1.2.0.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>KiameV</Owner>

@@ -261,7 +261,6 @@ namespace monstergirlsbase
             }
             y += NEW_SETTING;
 
-            Log.Warning("thrumb");
             Widgets.Label(new Rect(0, y, 150, 22), "MMG.Thrumbomorph".Translate());
             y += NEWLINE;
             Widgets.Label(new Rect(20, y, 150, 22), "MMG.Milk".Translate());

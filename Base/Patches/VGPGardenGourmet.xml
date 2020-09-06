@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>VGP Garden Gourmet</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/RecipeDef[defName="Makesoycheese" or defName="MakeBulksoycheese" or defName="MakeIcecream" or defName="MakeYogurt" or defName="MakeSmoothie" or defName="MakeChocolatemilk"]/ingredients/li/filter/thingDefs</xpath>
+					<value>
+						<li>CentaurMilk</li>
+						<li>CowgirlMilk</li>
+						<li>DryadMilk</li>
+						<li>ThrumbogirlMilk</li>
+						<li>ImpmotherMilk</li>
+						<li>DragonMilk</li>
+						<li>FoxgirlMilk</li>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>Defs/RecipeDef[defName="Makesoycheese" or defName="MakeBulksoycheese" or defName="MakeIcecream" or defName="MakeYogurt" or defName="MakeSmoothie" or defName="MakeChocolatemilk"]/fixedIngredientFilter/thingDefs</xpath>
+					<value>
+						<li>CentaurMilk</li>
+						<li>CowgirlMilk</li>
+						<li>DryadMilk</li>
+						<li>ThrumbogirlMilk</li>
+						<li>ImpmotherMilk</li>
+						<li>DragonMilk</li>
+						<li>FoxgirlMilk</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>
