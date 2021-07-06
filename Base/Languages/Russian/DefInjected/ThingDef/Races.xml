@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Dragongirl.label>драконоид</Dragongirl.label>
+  <Dragongirl.description>Очень мощное боевое животное. Тела драконоидов покрыты толстой защитной чешуей, и они могут буквально разорвать свою жертву зубами и когтями. Они наиболее распространены в засушливых регионах.</Dragongirl.description>
+  <Dragongirl.tools.0.label>левая лапа</Dragongirl.tools.0.label>
+  <Dragongirl.tools.1.label>правая лапа</Dragongirl.tools.1.label>
+  <Dragongirl.tools.3.label>голова</Dragongirl.tools.3.label>
+  <Dragongirl.race.meatLabel>мясо драконоида</Dragongirl.race.meatLabel>
+  
+  <Impmother.label>бес</Impmother.label>
+  <Impmother.description>Демоническое существо. Бесы были созданы более крупными и умными демонами, чтобы служить им в качестве рабов. У них очень необычная продолжительность жизни, они достигают зрелости только в последние 8 лет своей жизни. Однако взрослый бес (называемый матерью бесов) производит потомство очень быстро и производит достаточно молока, чтобы заставить корову покраснеть. Их характеры озорны, и они любят внимание, но они могут очень привязаться к своей матери или владельцу. Они предпочитают жаркий климат.</Impmother.description>
+  <Impmother.tools.0.label>рог</Impmother.tools.0.label>
+  <Impmother.tools.1.label>голова</Impmother.tools.1.label>
+  <Impmother.tools.2.label>левый кулак</Impmother.tools.2.label>
+  <Impmother.tools.3.label>правый кулак</Impmother.tools.3.label>
+  <Impmother.race.meatLabel>мясо беса</Impmother.race.meatLabel>
+
+  <Cowgirl.label>коровка</Cowgirl.label>
+  <Cowgirl.description>Животное, выглядящее как гибрид коровы и человека. Коровки очень спокойные и могут производить огромные объёмы молока.</Cowgirl.description>
+  <Cowgirl.tools.0.label>зубы</Cowgirl.tools.0.label>
+  <Cowgirl.tools.1.label>голова</Cowgirl.tools.1.label>
+  <Cowgirl.tools.2.label>левый кулак</Cowgirl.tools.2.label>
+  <Cowgirl.tools.3.label>правый кулак</Cowgirl.tools.3.label>
+  <Cowgirl.race.meatLabel>мясо коровки</Cowgirl.race.meatLabel>
+
+  <Centaur.label>кентавр</Centaur.label>
+  <Centaur.description>Быстрое, выносливое, умное и независимое животное. Кентавры чаще всего пасутся на засушливых лугах. Кентавры чрезвычайно универсальны и могут хорошо служить как боевые, как вьючные животные, для получения их молока и шерсти, а также как компаньоны.</Centaur.description>
+  <Centaur.tools.0.label>зубы</Centaur.tools.0.label>
+  <Centaur.tools.1.label>голова</Centaur.tools.1.label>
+  <Centaur.tools.2.label>левый кулак</Centaur.tools.2.label>
+  <Centaur.tools.3.label>правый кулак</Centaur.tools.3.label>
+  <Centaur.tools.4.label>левое копыто</Centaur.tools.4.label>
+  <Centaur.tools.5.label>правое копыто</Centaur.tools.5.label>
+  <Centaur.race.meatLabel>мясо кентавра</Centaur.race.meatLabel>
+
+  <BlackHarpy.label>чёрная гарпия</BlackHarpy.label>
+  <BlackHarpy.description>Всеядное существо, которое выглядит как человеческая женщина с крыльями, когтями и клювом. Черные гарпии откладывают яйца и живут в бореальных лесах и тундре. Они крупнее, сильнее и злее своих южных собратьев. Они тоже предпочитают мясо. Их перья можно использовать для производства одежды, как шерсть.</BlackHarpy.description>
+  <BlackHarpy.tools.0.label>когти</BlackHarpy.tools.0.label>
+  <BlackHarpy.tools.1.label>клюв</BlackHarpy.tools.1.label>
+  <BlackHarpy.tools.2.label>голова</BlackHarpy.tools.2.label>
+  <BlackHarpy.race.meatLabel>мясо чёрной гарпии</BlackHarpy.race.meatLabel>
+
+  <Thrumbomorph.label>трумбоморф</Thrumbomorph.label>
+  <Thrumbomorph.description>Существо, которое кажется чем-то средним между человеком и трумбо. У трумбоморфов есть острый рог, но он далеко не так ценен, как у обычного трумбо. Однако они все еще очень сильные бойцы. Они редко встречаются в более холодных регионах, но все же встречаются чаще, чем трумбо.</Thrumbomorph.description>
+  <Thrumbomorph.tools.0.label>зубы</Thrumbomorph.tools.0.label>
+  <Thrumbomorph.tools.1.label>голова</Thrumbomorph.tools.1.label>
+  <Thrumbomorph.tools.2.label>рог</Thrumbomorph.tools.2.label>
+  <Thrumbomorph.tools.3.label>левый кулак</Thrumbomorph.tools.3.label>
+  <Thrumbomorph.tools.4.label>правый кулак</Thrumbomorph.tools.4.label>
+  <Thrumbomorph.race.meatLabel>мясо трумбоморфа</Thrumbomorph.race.meatLabel>
+
+  <Slime.label>монстрослизь</Slime.label>
+  <Slime.description>Какой-то липкий сгусток в форме человека. Монстрослизи могут появляться и выживать в широком диапазоне окружающей среды, питаться чем угодно и быстро размножаться. Красные монстрослизи оставляют после себя слизь, которая используется как лечебное средство. Они известны тем, что нападают на людей, и, возможно, разработали свою уникальную форму как своего рода маскировку. Монстрослизи медлительны, но их трудно убить - аморфное тело выдерживает много ударов до разрушения, пока их жертвы страдают от отравления.</Slime.description>
+  <Slime.tools.0.label>голова</Slime.tools.0.label>
+  <Slime.tools.1.label>ядовитый укус</Slime.tools.1.label>
+  <Slime.race.meatLabel>жижа монстрослизи</Slime.race.meatLabel>
+
+  <Harpy.label>гарпия</Harpy.label>
+  <Harpy.description>Всеядное существо, которое выглядит как человеческая женщина с крыльями, когтями и клювом. Гарпии откладывают яйца и живут в засушливых районах. В бою они нежны, но быстры с мощными ударами. Они быстро размножаются и могут быть чрезвычайно опасны в больших группах. Их перья можно использовать для производства одежды, как шерсть.</Harpy.description>
+  <Harpy.tools.0.label>когти</Harpy.tools.0.label>
+  <Harpy.tools.1.label>клюв</Harpy.tools.1.label>
+  <Harpy.tools.2.label>голова</Harpy.tools.2.label>
+  <Harpy.race.meatLabel>мясо гарпии</Harpy.race.meatLabel>
+  
+  <Foxgirl.label>лисичка</Foxgirl.label>
+  <Foxgirl.description>Хитрое и пронырливое животное. Лисички чаще всего встречаются охотящимися в лесах и лугах.</Foxgirl.description>
+  <Foxgirl.tools.0.label>левая лапа</Foxgirl.tools.0.label>
+  <Foxgirl.tools.1.label>правая лапа</Foxgirl.tools.1.label>
+  <Foxgirl.tools.2.label>зубы</Foxgirl.tools.2.label>
+  <Foxgirl.tools.3.label>голова</Foxgirl.tools.3.label>
+  <Foxgirl.race.meatLabel>мясо лисички</Foxgirl.race.meatLabel>
+  
+  <FairyIce.label>ледяная фея</FairyIce.label>
+  <FairyIce.description>Маленькая, неуловимая и долгоживущая травоядная фея. Ледяные феи встречаются в холодных регионах. Они способны выживать в чрезвычайно холодных условиях и редко нуждаются в еде. Их преследуют из-за их волшебной пыльцы. Хотя они немного крепче лесных фей, им следует избегать боя из-за их небольшого размера.</FairyIce.description>
+  <FairyIce.tools.0.label>зубы</FairyIce.tools.0.label>
+  <FairyIce.tools.1.label>голова</FairyIce.tools.1.label>
+  <FairyIce.tools.2.label>левый кулак</FairyIce.tools.2.label>
+  <FairyIce.tools.3.label>правый кулак</FairyIce.tools.3.label>
+  <FairyIce.race.meatLabel>мясо ледяной феи</FairyIce.race.meatLabel>
+  
+  <FairyForest.label>лесная фея</FairyForest.label>
+  <FairyForest.description>Маленькая, неуловимая и долгоживущая травоядная фея. Лесные феи встречаются в лесах и джунглях. Их преследуют из-за их волшебной пыльцы. Они должны избегать боя из-за своих небольших размеров.</FairyForest.description>
+  <FairyForest.tools.0.label>зубы</FairyForest.tools.0.label>
+  <FairyForest.tools.1.label>голова</FairyForest.tools.1.label>
+  <FairyForest.tools.2.label>левый кулак</FairyForest.tools.2.label>
+  <FairyForest.tools.3.label>правый кулак</FairyForest.tools.3.label>
+  <FairyForest.race.meatLabel>мясо лесной феи</FairyForest.race.meatLabel>
+  
+  <Dryad.label>дриада</Dryad.label>
+  <Dryad.description>Обитающая в лесу родственница кентавра. Дриады меньше кентавров и более послушны, но быстро отращивают длинные, шелковистые волосы, которые можно использовать в качестве шерсти.</Dryad.description>
+  <Dryad.tools.0.label>зубы</Dryad.tools.0.label>
+  <Dryad.tools.1.label>голова</Dryad.tools.1.label>
+  <Dryad.tools.2.label>левый кулак</Dryad.tools.2.label>
+  <Dryad.tools.3.label>правый кулак</Dryad.tools.3.label>
+  <Dryad.tools.4.label>левое копыто</Dryad.tools.4.label>
+  <Dryad.tools.5.label>правое копыто</Dryad.tools.5.label>
+  <Dryad.race.meatLabel>мясо дриады</Dryad.race.meatLabel>
+  
+</LanguageData>
