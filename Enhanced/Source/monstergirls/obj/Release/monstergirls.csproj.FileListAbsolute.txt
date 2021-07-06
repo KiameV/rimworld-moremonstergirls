@@ -17,3 +17,5 @@ D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monst
 D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monstergirls.dll
 D:\Steam\steamapps\common\RimWorld\Mods\MoreMonsterGirlsEnhancedPatch\Assemblies\monstergirls.dll
 D:\Steam\steamapps\common\RimWorld\Mods\MoreMonsterGirlsEnhancedPatch\1.2\Assemblies\monstergirls.dll
+D:\Steam\steamapps\common\RimWorld\Mods\MoreMonsterGirlsEnhancedPatch\1.3\Assemblies\monstergirls.dll
+D:\RimWorld Mods\MoreMonsterGirls\Enhanced\Source\monstergirls\obj\Release\monstergirls.csproj.CoreCompileInputs.cache
