@@ -12,9 +12,9 @@
     </statBases>
     <comps>
       <li Class="CompProperties_Milkable">
-        <milkDef>ImpmotherMilk</milkDef>
-        <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>25</milkAmount>
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>10</milkAmount>
       </li>
     </comps>
     <tools>

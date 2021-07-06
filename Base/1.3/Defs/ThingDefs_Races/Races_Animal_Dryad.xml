@@ -86,9 +86,9 @@
     </tools>
     <comps>
       <li Class="CompProperties_Milkable">
-        <milkDef>DryadMilk</milkDef>
-        <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>25</milkAmount>
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>10</milkAmount>
       </li>
       <li Class="CompProperties_Shearable">
         <woolDef>HairDryad</woolDef>
@@ -119,7 +119,8 @@
           <li>(3.5, 0)</li>
         </points>
       </litterSizeCurve>
-      <nameOnTameChance>.3</nameOnTameChance>
+      <nameOnTameChance>0.3</nameOnTameChance>
+      <nameOnNuzzleChance>0.5</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0</Tundra>
         <IceSheet>0</IceSheet>
@@ -156,7 +157,8 @@
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-      <li>AnimalCommon</li>
+      <li>AnimalUncommon</li>
+      <li>AnimalFarm</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">

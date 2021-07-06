@@ -12,9 +12,9 @@
     </statBases>
     <comps>
 		<li Class="CompProperties_Milkable">
-			<milkDef>FoxgirlMilk</milkDef>
-			<milkIntervalDays>1</milkIntervalDays>
-			<milkAmount>10</milkAmount>
+			<milkDef>Milk</milkDef>
+			<milkIntervalDays>2</milkIntervalDays>
+			<milkAmount>6</milkAmount>
 		</li>
     </comps>
     <tools>
@@ -105,7 +105,8 @@
           <li>(3.5, 0)</li>
         </points>
       </litterSizeCurve>
-      <nameOnTameChance>.1</nameOnTameChance>
+      <nameOnTameChance>0.1</nameOnTameChance>
+      <nameOnNuzzleChance>0.35</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0</Tundra>
         <IceSheet>0.1</IceSheet>
@@ -142,9 +143,7 @@
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-		<li>AnimalCommon</li>
-		<li>AnimalFarm</li>
-		<li>AnimalExotic</li>
+      <li>AnimalUncommon</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">

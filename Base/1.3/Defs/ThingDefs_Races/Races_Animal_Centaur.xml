@@ -87,9 +87,9 @@
     </tools>
     <comps>
       <li Class="CompProperties_Milkable">
-        <milkDef>CentaurMilk</milkDef>
-        <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>25</milkAmount>
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>10</milkAmount>
       </li>
       <li Class="CompProperties_Shearable">
         <woolDef>HairCentaur</woolDef>
@@ -120,7 +120,8 @@
           <li>(3.5, 0)</li>
         </points>
       </litterSizeCurve>
-      <nameOnTameChance>.1</nameOnTameChance>
+      <nameOnTameChance>0.1</nameOnTameChance>
+      <nameOnNuzzleChance>0.35</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0</Tundra>
         <IceSheet>0</IceSheet>

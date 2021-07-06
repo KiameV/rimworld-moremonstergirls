@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--==========================Hair=============================-->
+  <ThingDef ParentName="WoolBase">
+    <defName>HairCentaur</defName>
+    <label>centaur hair</label>
+    <description>Soft, light and provides very good insulation. Centaur hair clothes can keep the body comfortable even in extreme conditions.</description>
+    <graphicData>
+      <color>171,99,55</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>5.0</MarketValue>
+      <StuffPower_Insulation_Cold>20</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>25</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>171,99,55</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="WoolBase">
+    <defName>HairDryad</defName>
+    <label>dryad hair</label>
+    <description>Soft, light and provides very good insulation. Dryad hair clothes can keep the body comfortable even in extreme conditions.</description>
+    <graphicData>
+      <color>14,156,100</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>4.5</MarketValue>
+      <StuffPower_Insulation_Cold>25</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>20</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>14,156,100</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="WoolBase">
+    <defName>HarpyFeathers</defName>
+    <label>harpy feathers</label>
+    <description>Soft, light and provides very good insulation. Harpy feather clothes can keep the body comfortable in very hot conditions.</description>
+    <graphicData>
+      <color>209,159,187</color>
+    </graphicData>
+    <statBases>
+      <Beauty>3</Beauty>
+      <MarketValue>3.3</MarketValue>
+      <StuffPower_Armor_Blunt>1.25</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Sharp>1.3</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>10</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>30</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>209,159,187</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="WoolBase">
+    <defName>BlackHarpyFeathers</defName>
+    <label>black harpy feathers</label>
+    <description>Soft, light and provides very good insulation. Black harpy feather clothes can keep the body warm in cold conditions.</description>
+    <graphicData>
+      <color>73,61,61</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>4.0</MarketValue>
+      <StuffPower_Armor_Blunt>1.25</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Sharp>1.3</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>10</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>73,61,61</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="WoolBase">
+    <defName>WoolThrumbomorph</defName>
+    <label>thrumbomorph wool</label>
+    <description>Soft, light and provides very good insulation.  Thrumbomorph wool is valuable and clothes made from it provide good all-round protection.</description>
+    <graphicData>
+      <color>179,191,219</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>10</MarketValue>
+      <StuffPower_Armor_Blunt>1.25</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Sharp>1.3</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Cold>25</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>25</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>179,191,219</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="WoolBase">
+    <defName>DragongirlScales</defName>
+    <label>dragongirl scales</label>
+    <description>Scales shed from a dragongirl. Equipment made from these scales provide excellent defense and protection from heat.</description>
+    <graphicData>
+      <color>(221,161,111)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>6</MarketValue>
+      <StuffPower_Armor_Blunt>2.1</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Sharp>2.3</StuffPower_Armor_Sharp>
+      <StuffPower_Insulation_Heat>25</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(221,161,111)</color>
+    </stuffProps>
+  </ThingDef>
+</Defs>  

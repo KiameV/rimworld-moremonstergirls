@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="MedicineBase">
+    <defName>GooSlimeRed</defName>
+    <label>red goo</label>
+    <description>A red goo that dripped off of a red slime. It can serve as a primitive medicine.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/RedGoo</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.85</drawSize>
+    </graphicData>
+    <techLevel>Neolithic</techLevel>
+    <statBases>
+      <MarketValue>12</MarketValue>
+      <Mass>0.35</Mass>
+      <Flammability>0.70</Flammability>
+      <MedicalPotency>0.60</MedicalPotency>
+      <MedicalQualityMax>0.70</MedicalQualityMax>
+      <DeteriorationRate>6</DeteriorationRate>
+    </statBases>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>150</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <thingCategories>
+    ]<li>AnimalProductRaw</li>
+  </thingCategories>
+</Defs>

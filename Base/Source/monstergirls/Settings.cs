@@ -524,8 +524,8 @@ namespace monstergirlsbase
         {
             this.CentaurMilk = new Production()
             {
-                IntervalDays = 1,
-                Amount = 25,
+                IntervalDays = 2,
+                Amount = 10,
             };
         }
 
@@ -544,7 +544,7 @@ namespace monstergirlsbase
             this.CowgirlMilk = new Production()
             {
                 IntervalDays = 1,
-                Amount = 25,
+                Amount = 8,
             };
         }
 
@@ -570,8 +570,8 @@ namespace monstergirlsbase
         {
             this.DryadMilk = new Production()
             {
-                IntervalDays = 1,
-                Amount = 25,
+                IntervalDays = 2,
+                Amount = 10,
             };
         }
 
@@ -588,8 +588,8 @@ namespace monstergirlsbase
         {
             this.ForestFairyDust = new Production()
             {
-                IntervalDays = 1,
-                Amount = 10,
+                IntervalDays = 2,
+                Amount = 4,
             };
         }
 
@@ -597,8 +597,8 @@ namespace monstergirlsbase
         {
             this.IceFairyDust = new Production()
             {
-                IntervalDays = 1,
-                Amount = 10,
+                IntervalDays = 2,
+                Amount = 4,
             };
         }
 
@@ -606,8 +606,8 @@ namespace monstergirlsbase
         {
             this.FoxgirlMilk = new Production()
             {
-                IntervalDays = 1,
-                Amount = 10,
+                IntervalDays = 2,
+                Amount = 6,
             };
         }
 
@@ -655,8 +655,8 @@ namespace monstergirlsbase
         {
             this.ImpMotherMilk = new Production()
             {
-                IntervalDays = 1,
-                Amount = 25,
+                IntervalDays = 2,
+                Amount = 10,
             };
         }
 
@@ -665,7 +665,7 @@ namespace monstergirlsbase
             this.SlimegirlSlime = new Production()
             {
                 IntervalDays = 1,
-                Amount = 5,
+                Amount = 4,
             };
         }
 
@@ -673,7 +673,7 @@ namespace monstergirlsbase
         {
             this.ThumbromorphMilk = new Production()
             {
-                IntervalDays = 1,
+                IntervalDays = 2,
                 Amount = 10,
             };
         }

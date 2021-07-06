@@ -16,7 +16,7 @@
       <li Class="CompProperties_Milkable">
         <milkDef>GooSlimeRed</milkDef>
         <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>5</milkAmount>
+        <milkAmount>4</milkAmount>
       </li>
     </comps>
     <tools>
@@ -96,18 +96,18 @@
       </litterSizeCurve>
       <mateMtbHours>6</mateMtbHours>
       <wildBiomes>
-        <Tundra>0.0001</Tundra>
-        <IceSheet>0.0001</IceSheet>
-        <SeaIce>0.0001</SeaIce>
-        <TropicalRainforest>0.0001</TropicalRainforest>
-        <TemperateForest>0.0001</TemperateForest>
-        <BorealForest>0.0001</BorealForest>
-        <AridShrubland>0.0001</AridShrubland>
-        <Desert>0.0001</Desert>
-        <ExtremeDesert>0.0001</ExtremeDesert>
-        <TemperateSwamp>0.0001</TemperateSwamp>
-        <ColdBog>0.0001</ColdBog>
-        <TropicalSwamp>0.0001</TropicalSwamp>
+        <Tundra>0.03</Tundra>
+        <IceSheet>0.01</IceSheet>
+        <SeaIce>0.01</SeaIce>
+        <TropicalRainforest>0.06</TropicalRainforest>
+        <TemperateForest>0.06</TemperateForest>
+        <BorealForest>0.06</BorealForest>
+        <AridShrubland>0.05</AridShrubland>
+        <Desert>0.03</Desert>
+        <ExtremeDesert>0.01</ExtremeDesert>
+        <TemperateSwamp>0.08</TemperateSwamp>
+        <ColdBog>0.06</ColdBog>
+        <TropicalSwamp>0.06</TropicalSwamp>
       </wildBiomes>
       <lifeStageAges>
         <li>
@@ -129,6 +129,7 @@
     </race>
     <tradeTags>
       <li>AnimalUncommon</li>
+      <li>AnimalFighter</li>
     </tradeTags>
   </ThingDef>
 
