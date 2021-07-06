@@ -121,7 +121,6 @@
         </points>
       </litterSizeCurve>
       <nameOnTameChance>0.1</nameOnTameChance>
-      <nameOnNuzzleChance>0.35</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0</Tundra>
         <IceSheet>0</IceSheet>

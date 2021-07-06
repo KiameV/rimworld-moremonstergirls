@@ -126,7 +126,6 @@
       </litterSizeCurve>
       <mateMtbHours>24</mateMtbHours>
       <nameOnTameChance>0.05</nameOnTameChance>
-      <nameOnNuzzleChance>0.12</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0.02</Tundra>
         <IceSheet>0</IceSheet>
