@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>Thrumbomorph</defName>
     <label>thrumbomorph</label>
     <description>A creature that appears to be a cross between a human and a thrumbo. They have a sharp horn, but it's not nearly as valuable as that of a normal thrumbo. They are still a very powerful fighter, however. They are rarely spotted in colder regions, but still more common than a thrumbo.</description>

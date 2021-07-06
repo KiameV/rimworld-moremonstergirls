@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
     <defName>Centaur</defName>
     <label>centaur</label>
     <description>A fast, tough, intelligent and independent animal. Centaurs are most often found grazing in arid grasslands. Centaurs are extremely versatile and can serve well in combat, as pack animals, for their milk and wool, and as companions.</description>
