@@ -36,6 +36,23 @@ namespace monstergirlsbase
                 this.initialized = true;
             }
 
+            Widgets.Label(new Rect(0, y, 250, 22), "MMG.DisableMGMilk".Translate());
+            bool orig = Settings.DisableMilk;
+            Widgets.Checkbox(260, y - 2, ref Settings.DisableMilk);
+            if (orig != Settings.DisableMilk)
+                Loader.DisableMilk();
+            y += NEWLINE;
+
+            if (!Settings.DisableMilk)
+            {
+                Widgets.Label(new Rect(10, y, 250, 22), "MMG.UseMGMilk".Translate());
+                orig = Settings.UseMonsterGirlMilk;
+                Widgets.Checkbox(270, y - 2, ref Settings.UseMonsterGirlMilk);
+                if (orig != Settings.UseMonsterGirlMilk)
+                    Loader.SetMilk();
+                y += NEWLINE;
+            }
+
             Widgets.Label(new Rect(0, y, 150, 22), "MMG.Centaur".Translate());
             y += NEWLINE;
             Widgets.Label(new Rect(20, y, 150, 22), "MMG.Milk".Translate());
@@ -411,6 +428,9 @@ namespace monstergirlsbase
 
     class Settings : ModSettings
     {
+        public static bool DisableMilk = false;
+        public static bool UseMonsterGirlMilk = true;
+
         public Production CentaurMilk;
         public Production CentaurHair;
 
@@ -448,6 +468,8 @@ namespace monstergirlsbase
             Scribe_Values.Look(ref version, "version", "");
             if (version == "1.3")
             {
+                Scribe_Values.Look(ref DisableMilk, "disableMilk", false);
+                Scribe_Values.Look(ref UseMonsterGirlMilk, "useMonsterGirlMilk", true);
                 Scribe_Deep.Look(ref this.CentaurMilk, "CentaurMilk", null);
                 Scribe_Deep.Look(ref this.CentaurHair, "CentaurHair", null);
                 Scribe_Deep.Look(ref this.CowgirlMilk, "CowgirlMilk", null);
