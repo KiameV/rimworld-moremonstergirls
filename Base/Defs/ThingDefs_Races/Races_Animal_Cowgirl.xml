@@ -75,6 +75,7 @@
     </tools>
     <race>
       <body>Cowgirl</body>
+      <roamMtbDays>2</roamMtbDays>
       <ageGenerationCurve>
         <points>
           <li>0.1,0</li>
@@ -96,7 +97,7 @@
       <makesFootprints>true</makesFootprints>
       <lifeExpectancy>30</lifeExpectancy>
       <trainability>Advanced</trainability>
-      <meatLabel>beef</meatLabel>
+      <meatLabel>cowgirl meat</meatLabel>
       <nuzzleMtbHours>12</nuzzleMtbHours>
       <herdMigrationAllowed>true</herdMigrationAllowed>
       <gestationPeriodDays>15</gestationPeriodDays>

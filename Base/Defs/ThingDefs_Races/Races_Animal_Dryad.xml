@@ -99,6 +99,7 @@
     <race>
       <herdAnimal>true</herdAnimal>
       <body>Dryad</body>
+      <roamMtbDays>2</roamMtbDays>
       <baseBodySize>1.5</baseBodySize>
       <baseHealthScale>1.60</baseHealthScale>
       <baseHungerRate>0.7</baseHungerRate>

@@ -94,6 +94,7 @@
       <leatherDef>Leather_Foxgirl</leatherDef>
       <meatLabel>foxgirl meat</meatLabel>
       <gestationPeriodDays>30</gestationPeriodDays>
+      <predator>true</predator>
       <trainability>Advanced</trainability>
       <packAnimal>false</packAnimal>
       <lifeExpectancy>60</lifeExpectancy>
