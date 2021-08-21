@@ -85,6 +85,7 @@
     <race>
       <herdAnimal>false</herdAnimal>
       <body>Foxgirl</body>
+      <predator>true</predator>
       <baseBodySize>0.8</baseBodySize>
       <baseHealthScale>0.8</baseHealthScale>
       <baseHungerRate>0.8</baseHungerRate>

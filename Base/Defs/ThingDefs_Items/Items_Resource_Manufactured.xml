@@ -27,4 +27,7 @@
       </li>
     </comps>
   </ThingDef>
+  <thingCategories>
+    <li>AnimalProductRaw</li>
+  </thingCategories>
 </Defs>

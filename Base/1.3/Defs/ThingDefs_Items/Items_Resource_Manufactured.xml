@@ -28,6 +28,6 @@
     </comps>
   </ThingDef>
   <thingCategories>
-    ]<li>AnimalProductRaw</li>
+    <li>AnimalProductRaw</li>
   </thingCategories>
 </Defs>
