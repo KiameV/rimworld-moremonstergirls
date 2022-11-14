@@ -100,6 +100,7 @@
     <race>
       <herdAnimal>true</herdAnimal>
       <body>Centaur</body>
+      <roamMtbDays>2</roamMtbDays>
       <baseBodySize>1.8</baseBodySize>
       <baseHealthScale>1.75</baseHealthScale>
       <baseHungerRate>0.8</baseHungerRate>

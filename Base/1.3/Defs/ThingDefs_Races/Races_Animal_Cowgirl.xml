@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArmsTail">
     <defName>Cowgirl</defName>
     <label>cowgirl</label>
     <description>An animal which looks like a cow and human hybrid. It is very calm and can produce large amounts of milk.</description>
@@ -13,9 +13,9 @@
     </statBases>
     <comps>
       <li Class="CompProperties_Milkable">
-        <milkDef>CowgirlMilk</milkDef>
+        <milkDef>Milk</milkDef>
         <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>25</milkAmount>
+        <milkAmount>8</milkAmount>
       </li>
     </comps>
     <tools>
@@ -75,7 +75,6 @@
     </tools>
     <race>
       <body>Cowgirl</body>
-      <roamMtbDays>2</roamMtbDays>
       <ageGenerationCurve>
         <points>
           <li>0.1,0</li>
@@ -112,7 +111,6 @@
       </litterSizeCurve>
       <mateMtbHours>24</mateMtbHours>
       <nameOnTameChance>0.25</nameOnTameChance>
-      <nameOnNuzzleChance>0.5</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0.01</Tundra>
         <TropicalRainforest>0.25</TropicalRainforest>

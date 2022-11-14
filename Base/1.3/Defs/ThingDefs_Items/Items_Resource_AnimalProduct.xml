@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-   <!--================================ Milk ======================================-->
+<!--============================================ Unfertilized Eggs =============================================================-->  
+  
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>EggHarpyUnfertilized</defName>
+    <label>harpy egg (unfert.)</label>
+    <description>An unfertilized harpy egg.  It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>240,160,180</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>10.0</MarketValue>
+    </statBases>
+  </ThingDef>
+
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>EggBlackHarpyUnfertilized</defName>
+    <label>black harpy egg (unfert.)</label>
+    <description>An unfertilized black harpy egg.  It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>90,60,60</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>20.0</MarketValue>
+    </statBases>
+  </ThingDef>
+  
+<!--=========================================== Fertilized Eggs ================================================================-->
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggHarpyFertilized</defName>
+    <label>harpy egg (fert.)</label>
+    <description>Fertilized harpy egg. Needs a warm place to hatch. If all goes well, it should hatch into a harpy chick.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>240,160,180</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>10.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>10</hatcherDaystoHatch>
+        <hatcherPawn>Harpy</hatcherPawn>  
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggBlackHarpyFertilized</defName>
+    <label>black harpy egg (fert.)</label>
+    <description>Fertilized black harpy egg. Needs a warm place to hatch. If all goes well, it should hatch into a black harpy chick.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>90,60,60</color>
+      <drawSize>1.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>20.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>10</hatcherDaystoHatch>
+        <hatcherPawn>BlackHarpy</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <!--================================ Milk ======================================-->
    
   <ThingDef ParentName="OrganicProductBase">
     <defName>CentaurMilk</defName>
@@ -11,7 +82,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>1.9</MarketValue>
+      <MarketValue>2.1</MarketValue>
       <Mass>0.045</Mass>
       <Nutrition>0.17</Nutrition>
       <FoodPoisonChanceFixedHuman>0</FoodPoisonChanceFixedHuman>
@@ -41,7 +112,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>1.9</MarketValue>
+      <MarketValue>2.0</MarketValue>
       <Mass>0.045</Mass>
       <MaxHitPoints>55</MaxHitPoints>
       <Nutrition>0.17</Nutrition>
@@ -72,7 +143,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>1.9</MarketValue>
+      <MarketValue>2.1</MarketValue>
       <Mass>0.045</Mass>
       <Nutrition>0.2</Nutrition>
       <FoodPoisonChanceFixedHuman>0</FoodPoisonChanceFixedHuman>
@@ -102,7 +173,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>1.9</MarketValue>
+      <MarketValue>2.6</MarketValue>
       <Mass>0.045</Mass>
       <MaxHitPoints>55</MaxHitPoints>
       <Nutrition>0.27</Nutrition>
@@ -133,7 +204,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>1.9</MarketValue>
+      <MarketValue>2.2</MarketValue>
       <Mass>0.045</Mass>
       <MaxHitPoints>55</MaxHitPoints>
       <Nutrition>0.27</Nutrition>
@@ -164,7 +235,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>1.9</MarketValue>
+      <MarketValue>2.4</MarketValue>
       <Mass>0.045</Mass>
       <MaxHitPoints>55</MaxHitPoints>
       <Nutrition>0.3</Nutrition>
@@ -186,38 +257,7 @@
       <li>AnimalProductRaw</li>
     </thingCategories>
   </ThingDef>
-  
-<!--============================================ Unfertilized Eggs =============================================================-->  
-  
-  <ThingDef ParentName="EggUnfertBase">
-    <defName>EggHarpyUnfertilized</defName>
-    <label>harpy egg (unfert.)</label>
-    <description>An unfertilized harpy egg.  It can be eaten raw, but it's much better cooked.</description>
-    <graphicData>
-      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
-      <color>240,160,180</color>
-      <drawSize>1.3</drawSize>
-    </graphicData>
-    <statBases>
-      <MarketValue>15.0</MarketValue>
-    </statBases>
-  </ThingDef>
-
-  <ThingDef ParentName="EggUnfertBase">
-    <defName>EggBlackHarpyUnfertilized</defName>
-    <label>black harpy egg (unfert.)</label>
-    <description>An unfertilized black harpy egg.  It can be eaten raw, but it's much better cooked.</description>
-    <graphicData>
-      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
-      <color>90,60,60</color>
-      <drawSize>1.3</drawSize>
-    </graphicData>
-    <statBases>
-      <MarketValue>25.0</MarketValue>
-    </statBases>
-  </ThingDef>
-  
-  <ThingDef ParentName="OrganicProductBase">
+   <ThingDef ParentName="OrganicProductBase">
     <defName>FoxgirlMilk</defName>
     <label>foxgirl milk</label>
     <description>Milk from a happy foxgirl. Prized for its slight vivacious taste.</description>
@@ -226,7 +266,7 @@
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>
-      <MarketValue>8.5</MarketValue>
+      <MarketValue>2.0</MarketValue>
       <Mass>0.045</Mass>
       <Nutrition>0.17</Nutrition>
       <FoodPoisonChanceFixedHuman>0</FoodPoisonChanceFixedHuman>
@@ -247,46 +287,4 @@
       <li>AnimalProductRaw</li>
     </thingCategories>
   </ThingDef>
-  
-<!--=========================================== Fertilized Eggs ================================================================-->
-  <ThingDef ParentName="EggFertBase">
-    <defName>EggHarpyFertilized</defName>
-    <label>harpy egg (fert.)</label>
-    <description>Fertilized harpy egg. Needs a warm place to hatch. If all goes well, it should hatch into a harpy chick.</description>
-    <graphicData>
-      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
-      <color>240,160,180</color>
-      <drawSize>1.3</drawSize>
-    </graphicData>
-    <statBases>
-      <MarketValue>50.0</MarketValue>
-    </statBases>
-    <comps>
-      <li Class="CompProperties_Hatcher">
-        <hatcherDaystoHatch>10</hatcherDaystoHatch>
-        <hatcherPawn>Harpy</hatcherPawn>  
-      </li>
-    </comps>
-  </ThingDef>
-
-  <ThingDef ParentName="EggFertBase">
-    <defName>EggBlackHarpyFertilized</defName>
-    <label>black harpy egg (fert.)</label>
-    <description>Fertilized black harpy egg. Needs a warm place to hatch. If all goes well, it should hatch into a black harpy chick.</description>
-    <graphicData>
-      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
-      <color>90,60,60</color>
-      <drawSize>1.5</drawSize>
-    </graphicData>
-    <statBases>
-      <MarketValue>75.0</MarketValue>
-    </statBases>
-    <comps>
-      <li Class="CompProperties_Hatcher">
-        <hatcherDaystoHatch>10</hatcherDaystoHatch>
-        <hatcherPawn>BlackHarpy</hatcherPawn>
-      </li>
-    </comps>
-  </ThingDef>
-  
 </Defs>

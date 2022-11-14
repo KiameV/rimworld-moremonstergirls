@@ -29,4 +29,7 @@
 	<MMG.Amount>Amount</MMG.Amount>
 	<MMG.CountRangeMinMax>Count Min - Max</MMG.CountRangeMinMax>
 	<MMG.FertalizedCountMax>Fertalized Count Max</MMG.FertalizedCountMax>
+	
+	<MMG.DisableMGMilk>Disable Monster Girl Milk</MMG.DisableMGMilk>
+	<MMG.UseMGMilk>Use Monster Girl Milk</MMG.UseMGMilk>
 </LanguageData>

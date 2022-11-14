@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ThrumbomorphHorn.label>рог трумбоморфа</ThrumbomorphHorn.label>
+  <ThrumbomorphHorn.description>Рог трумбоморфа. Не такой большой и ценный, как рог трумбо, но такой же смертельно опасный.</ThrumbomorphHorn.description>
+  <ThrumbomorphHorn.tools.0.label>остриё</ThrumbomorphHorn.tools.0.label>
+  <ThrumbomorphHorn.tools.1.label>основа</ThrumbomorphHorn.tools.1.label>
+
+  <CentaurMilk.label>молоко кентавра</CentaurMilk.label>
+  <CentaurMilk.description>Молоко счастливой самки кентавра. Ценится за его лёгкий землистый вкус.</CentaurMilk.description>
+
+  <CowgirlMilk.label>молоко коровки</CowgirlMilk.label>
+  <CowgirlMilk.description>Молоко счастливой коровки. Очень вкусное.</CowgirlMilk.description>
+  
+  <DryadMilk.label>молоко дриады</DryadMilk.label>
+  <DryadMilk.description>Молоко послушной дриады. Имеет лёгкий фруктовый вкус.</DryadMilk.description>
+  
+  <ThrumbogirlMilk.label>молоко трумбодевы</ThrumbogirlMilk.label>
+  <ThrumbogirlMilk.description>Молоко счастливой трумбодевы. Прохладное и освежающее.</ThrumbogirlMilk.description>
+  
+  <ImpmotherMilk.label>молоко матери бесов</ImpmotherMilk.label>
+  <ImpmotherMilk.description>Молоко соблазнительной матери бесов. Имеет загадочный вкус.</ImpmotherMilk.description>
+  
+  <DragonMilk.label>молоко дракодевы</DragonMilk.label>
+  <DragonMilk.description>Молоко энергичной дракодевы. Имеет приятный вкус, который высоко ценится.</DragonMilk.description>
+  
+  <EggHarpyUnfertilized.label>яйцо гарпии (не опл.)</EggHarpyUnfertilized.label>
+  <EggHarpyUnfertilized.description>Не оплодотворённое яйцо гарпии. Может быть съедено сырым, но гораздо вкуснее приготовленное.</EggHarpyUnfertilized.description>
+  
+  <EggBlackHarpyUnfertilized.label>яйцо чёрной гарпии (не опл.)</EggBlackHarpyUnfertilized.label>
+  <EggBlackHarpyUnfertilized.description>Не оплодотворённое яйцо чёрной гарпии. Может быть съедено сырым, но гораздо вкуснее приготовленное.</EggBlackHarpyUnfertilized.description>
+  
+  <EggHarpyFertilized.label>яйцо гарпии (опл.)</EggHarpyFertilized.label>
+  <EggHarpyFertilized.description>Оплодотворённое яйцо гарпии. Нуждается в тёплом месте для вывода. Если всё пройдёт хорошо, из него вылупится цыплёнок гарпии.</EggHarpyFertilized.description>
+  
+  <EggBlackHarpyFertilized.label>яйцо чёрной гарпии (опл.)</EggBlackHarpyFertilized.label>
+  <EggBlackHarpyFertilized.description>Оплодотворённое яйцо чёрной гарпии. Нуждается в тёплом месте для вывода. Если всё пройдёт хорошо, из него вылупится цыплёнок чёрной гарпии.</EggBlackHarpyFertilized.description>
+  
+  <GooSlimeRed.label>красная жижа</GooSlimeRed.label>
+  <GooSlimeRed.description>Красная жижа, капающая с красных монстрослизей. Может служить примитивным лекарством.</GooSlimeRed.description>
+  
+  <HairCentaur.label>волосы кентавра</HairCentaur.label>
+  <HairCentaur.description>Мягкие, лёгкие и обеспечивают хорошую теплоизоляцию. Одежда из волос кентавра может поддерживать тело в комфорте даже при экстремальных условиях.</HairCentaur.description>
+  <HairCentaur.stuffProps.stuffAdjective>волос кентавра</HairCentaur.stuffProps.stuffAdjective>
+  
+  <HairDryad.label>волосы дриады</HairDryad.label>
+  <HairDryad.description>Мягкие, лёгкие и обеспечивают хорошую теплоизоляцию. Одежда из волос дриады может поддерживать тело в комфорте даже при экстремальных условиях.</HairDryad.description>
+  <HairDryad.stuffProps.stuffAdjective>волос дриады</HairDryad.stuffProps.stuffAdjective>
+  
+  <HarpyFeathers.label>перья гарпии</HarpyFeathers.label>
+  <HarpyFeathers.description>Мягкие, лёгкие и обеспечивают хорошую теплоизоляцию. Одежда из перьев гарпии может поддерживать тело в комфорте даже при очень высоких температурах.</HarpyFeathers.description>
+  <HarpyFeathers.stuffProps.stuffAdjective>перьев гарпии</HarpyFeathers.stuffProps.stuffAdjective>
+  
+  <BlackHarpyFeathers.label>перья чёрной гарпии</BlackHarpyFeathers.label>
+  <BlackHarpyFeathers.description>Мягкие, лёгкие и обеспечивают хорошую теплоизоляцию. Одежда из перьев чёрной гарпии может поддерживать тело в комфорте даже при очень низких температурах.</BlackHarpyFeathers.description>
+  <BlackHarpyFeathers.stuffProps.stuffAdjective>перьев чёрной гарпии</BlackHarpyFeathers.stuffProps.stuffAdjective>
+  
+  <WoolThrumbomorph.label>шерсть трумбоморфа</WoolThrumbomorph.label>
+  <WoolThrumbomorph.description>Мягкая, лёгкая и обеспечивает хорошую теплоизоляцию. Шерсть трумбоморфа ценная и одежда из неё обеспечивает хорошую всестороннюю защиту.</WoolThrumbomorph.description>
+  <WoolThrumbomorph.stuffProps.stuffAdjective>шерсти трумбоморфа</WoolThrumbomorph.stuffProps.stuffAdjective>
+  
+  <DragongirlScales.label>чешуя драконоида</DragongirlScales.label>
+  <DragongirlScales.description>Чешуя сброшенная драконоидом. Вещи сделанные из этой чешуи, предоставляют превосходную физическую защиту и защиту от нагрева.</DragongirlScales.description>
+  <DragongirlScales.stuffProps.stuffAdjective>чешуи драконоида</DragongirlScales.stuffProps.stuffAdjective>
+  
+  <Leather_Cowgirl.label>шкура коровки</Leather_Cowgirl.label>
+  <Leather_Cowgirl.description>Дублёная, высушенная, очищенная шкура коровки. Ты ведь это сделал, не так ли? Ты убил милую, невинную коровку ради этого. Ты Чудовище!</Leather_Cowgirl.description>
+  <Leather_Cowgirl.stuffProps.stuffAdjective>шкуры коровки</Leather_Cowgirl.stuffProps.stuffAdjective>
+  
+  <Leather_Foxgirl.label>кожа лисички</Leather_Foxgirl.label>
+  <Leather_Foxgirl.description>Дублёная, высушенная, очищенная кожа лисички. Ты ведь это сделал, не так ли? Ты убил милую, невинную лисичку ради этого. Ты Чудовище!</Leather_Foxgirl.description>
+  <Leather_Foxgirl.stuffProps.stuffAdjective>кожи лисички</Leather_Foxgirl.stuffProps.stuffAdjective>
+  
+  <Leather_Centaur.label>кожа кентавра</Leather_Centaur.label>
+  <Leather_Centaur.description>Дублёная, высушенная, очищенная кожа кентавра. Довольно жесткая и хорошо изолирует от жары.</Leather_Centaur.description>
+  <Leather_Centaur.stuffProps.stuffAdjective>кожи кентавра</Leather_Centaur.stuffProps.stuffAdjective>
+  
+  <Leather_Dryad.label>кожа дриады</Leather_Dryad.label>
+  <Leather_Dryad.description>Дублёная, высушенная, очищенная кожа дриады. На ощупь она мягкая и теплая, совсем как то существо, которое ты разделал, чтобы получить эту кожу.</Leather_Dryad.description>
+  <Leather_Dryad.stuffProps.stuffAdjective>кожи дриады</Leather_Dryad.stuffProps.stuffAdjective>
+  
+  <Leather_Harpy.label>кожа гарпии</Leather_Harpy.label>
+  <Leather_Harpy.description>Дублёная, высушенная, очищенная кожа гарпии. Обеспечивает некоторую защиту от жары и немного защищает от ударов.</Leather_Harpy.description>
+  <Leather_Harpy.stuffProps.stuffAdjective>кожи гарпии</Leather_Harpy.stuffProps.stuffAdjective>
+  
+  <Leather_BlackHarpy.label>кожа чёрной гарпии</Leather_BlackHarpy.label>
+  <Leather_BlackHarpy.description>Дублёная, высушенная, очищенная кожа чёрной гарпии. Обеспечивает некоторую защиту от холода и немного защищает от ударов.</Leather_BlackHarpy.description>
+  <Leather_BlackHarpy.stuffProps.stuffAdjective>кожи чёрной гарпии</Leather_BlackHarpy.stuffProps.stuffAdjective>
+  
+  <Leather_FairyForest.label>кожа лесной феи</Leather_FairyForest.label>
+  <Leather_FairyForest.description>Дублёная, высушенная, очищенная кожа нежной, беззащитной лесной феи. Совершенно средняя с точки зрения статистики. Надеюсь, ты сможешь с этим жить... Ты Чудовище!</Leather_FairyForest.description>
+  <Leather_FairyForest.stuffProps.stuffAdjective>кожи лесной феи</Leather_FairyForest.stuffProps.stuffAdjective>
+  
+  <Leather_FairyIce.label>кожа ледяной феи</Leather_FairyIce.label>
+  <Leather_FairyIce.description>Дублёная, высушенная, очищенная кожа нежной, беззащитной ледяной феи. Очень высокая защита от холода. Надеюсь, ты сможешь с этим жить... Ты Чудовище!</Leather_FairyIce.description>
+  <Leather_FairyIce.stuffProps.stuffAdjective>кожи ледяной феи</Leather_FairyIce.stuffProps.stuffAdjective>
+  
+  <Leather_Thrumbomorph.label>кожа трумбоморфа</Leather_Thrumbomorph.label>
+  <Leather_Thrumbomorph.description>Дублёная, высушенная, очищенная кожа трумбоморфа. Хороший всесторонний изолятор и поглотитель урона.</Leather_Thrumbomorph.description>
+  <Leather_Thrumbomorph.stuffProps.stuffAdjective>кожи трумбоморфа</Leather_Thrumbomorph.stuffProps.stuffAdjective>
+  
+  <Leather_Slime.label>мембрана монстрослизи</Leather_Slime.label>
+  <Leather_Slime.description>Внешняя мембрана мёртвой монстрослизи, аккуратно снятая. Неплохой изолятор и поглотитель урона.</Leather_Slime.description>
+  <Leather_Slime.stuffProps.stuffAdjective>мембраны монстрослизи</Leather_Slime.stuffProps.stuffAdjective>
+  
+  <Leather_Imp.label>кожа беса</Leather_Imp.label>
+  <Leather_Imp.description>Дублёная, высушенная, очищенная кожа беса. Предоставляет некоторую физическую защиту и защиту от нагрева.</Leather_Imp.description>
+  <Leather_Imp.stuffProps.stuffAdjective>кожи беса</Leather_Imp.stuffProps.stuffAdjective>
+  
+  <Leather_Dragon.label>кожа драконоида</Leather_Dragon.label>
+  <Leather_Dragon.description>Дублёная, высушенная, очищенная кожа драконоида. Предоставляет некоторую физическую защиту и защиту от нагрева.</Leather_Dragon.description>
+  <Leather_Dragon.stuffProps.stuffAdjective>кожи драконоида</Leather_Dragon.stuffProps.stuffAdjective>
+  
+  <FairyDust.label>волшебная пыльца</FairyDust.label>
+  <FairyDust.description>Странная пыльца, которая осыпается с крыльев феи. только самки фей производят пыльцу, поскольку у самцов нет крыльев.</FairyDust.description>
+  <FairyDust.ingestible.ingestCommandString>Нюхать {0}</FairyDust.ingestible.ingestCommandString>
+  <FairyDust.ingestible.ingestReportString>Нюхает {0}.</FairyDust.ingestible.ingestReportString>
+
+</LanguageData>

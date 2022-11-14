@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BlackHarpy.label>чёрная гарпия</BlackHarpy.label>
+  <BlackHarpy.labelPlural>чёрные гарпии</BlackHarpy.labelPlural>
+  <BlackHarpy.lifeStages.0.label>цыплёнок чёрной гарпии</BlackHarpy.lifeStages.0.label>
+  <BlackHarpy.lifeStages.0.labelPlural>цыплята чёрных гарпий</BlackHarpy.lifeStages.0.labelPlural>
+  <BlackHarpy.lifeStages.0.labelMale>цыплёнок самец чёрной гарпии</BlackHarpy.lifeStages.0.labelMale>
+  <BlackHarpy.lifeStages.0.labelMalePlural>цыплята самцы чёрной гарпии</BlackHarpy.lifeStages.0.labelMalePlural>
+  <BlackHarpy.lifeStages.0.labelFemale>цыплёнок чёрная гарпия</BlackHarpy.lifeStages.0.labelFemale>
+  <BlackHarpy.lifeStages.0.labelFemalePlural>цыплята чёрные гарпии</BlackHarpy.lifeStages.0.labelFemalePlural>
+  <BlackHarpy.lifeStages.1.label>молодая чёрная гарпия</BlackHarpy.lifeStages.1.label>
+  <BlackHarpy.lifeStages.1.labelPlural>молодняк чёрных гарпий</BlackHarpy.lifeStages.1.labelPlural>
+  <BlackHarpy.lifeStages.1.labelMale>молодой самец чёрной гарпии</BlackHarpy.lifeStages.1.labelMale>
+  <BlackHarpy.lifeStages.1.labelMalePlural>молодые самцы чёрной гарпии</BlackHarpy.lifeStages.1.labelMalePlural>
+  <BlackHarpy.lifeStages.1.labelFemale>молодая чёрная гарпия</BlackHarpy.lifeStages.1.labelFemale>
+  <BlackHarpy.lifeStages.1.labelFemalePlural>молодые чёрные гарпии</BlackHarpy.lifeStages.1.labelFemalePlural>
+  <BlackHarpy.lifeStages.2.label>чёрная гарпия</BlackHarpy.lifeStages.2.label>
+  <BlackHarpy.lifeStages.2.labelPlural>чёрные гарпии</BlackHarpy.lifeStages.2.labelPlural>
+  <BlackHarpy.lifeStages.2.labelMale>самец чёрной гарпии</BlackHarpy.lifeStages.2.labelMale>
+  <BlackHarpy.lifeStages.2.labelMalePlural>самцы чёрной гарпии</BlackHarpy.lifeStages.2.labelMalePlural>
+  <BlackHarpy.lifeStages.2.labelFemale>чёрная гарпия</BlackHarpy.lifeStages.2.labelFemale>
+  <BlackHarpy.lifeStages.2.labelFemalePlural>чёрные гарпии</BlackHarpy.lifeStages.2.labelFemalePlural>
+  <BlackHarpy.labelMale>самец чёрной гарпии</BlackHarpy.labelMale>
+  <BlackHarpy.labelMalePlural>самцы чёрной гарпии</BlackHarpy.labelMalePlural>
+  <BlackHarpy.labelFemale>чёрная гарпия</BlackHarpy.labelFemale>
+  <BlackHarpy.labelFemalePlural>чёрные гарпии</BlackHarpy.labelFemalePlural>
+  
+  <Centaur.label>кентавр</Centaur.label>
+  <Centaur.labelPlural>кентавры</Centaur.labelPlural>
+  <Centaur.lifeStages.0.label>детёныш кентавров</Centaur.lifeStages.0.label>
+  <Centaur.lifeStages.0.labelPlural>детёныши кентавров</Centaur.lifeStages.0.labelPlural>
+  <Centaur.lifeStages.0.labelMale>детёныш кентавра</Centaur.lifeStages.0.labelMale>
+  <Centaur.lifeStages.0.labelMalePlural>детёныши кентавра</Centaur.lifeStages.0.labelMalePlural>
+  <Centaur.lifeStages.0.labelFemale>детёныш самка кентавра</Centaur.lifeStages.0.labelFemale>
+  <Centaur.lifeStages.0.labelFemalePlural>детёныши самки кентавра</Centaur.lifeStages.0.labelFemalePlural>
+  <Centaur.lifeStages.1.label>молодой кентавр</Centaur.lifeStages.1.label>
+  <Centaur.lifeStages.1.labelPlural>молодняк кентавров</Centaur.lifeStages.1.labelPlural>
+  <Centaur.lifeStages.1.labelMale>молодой кентавр</Centaur.lifeStages.1.labelMale>
+  <Centaur.lifeStages.1.labelMalePlural>молодые кентавры</Centaur.lifeStages.1.labelMalePlural>
+  <Centaur.lifeStages.1.labelFemale>молодая самка кентавра</Centaur.lifeStages.1.labelFemale>
+  <Centaur.lifeStages.1.labelFemalePlural>молодые самки кентавра</Centaur.lifeStages.1.labelFemalePlural>
+  <Centaur.lifeStages.2.label>кентавр</Centaur.lifeStages.2.label>
+  <Centaur.lifeStages.2.labelPlural>кентавры</Centaur.lifeStages.2.labelPlural>
+  <Centaur.lifeStages.2.labelMale>кентавр</Centaur.lifeStages.2.labelMale>
+  <Centaur.lifeStages.2.labelMalePlural>кентавры</Centaur.lifeStages.2.labelMalePlural>
+  <Centaur.lifeStages.2.labelFemale>самка кентавра</Centaur.lifeStages.2.labelFemale>
+  <Centaur.lifeStages.2.labelFemalePlural>самки кентавра</Centaur.lifeStages.2.labelFemalePlural>
+  <Centaur.labelMale>кентавр</Centaur.labelMale>
+  <Centaur.labelMalePlural>кентавр</Centaur.labelMalePlural>
+  <Centaur.labelFemale>самка кентавра</Centaur.labelFemale>
+  <Centaur.labelFemalePlural>самки кентавра</Centaur.labelFemalePlural>
+  
+  <Cowgirl.label>коровка</Cowgirl.label>
+  <Cowgirl.labelPlural>коровки</Cowgirl.labelPlural>
+  <Cowgirl.lifeStages.0.label>телёнок коровок</Cowgirl.lifeStages.0.label>
+  <Cowgirl.lifeStages.0.labelPlural>телята коровок</Cowgirl.lifeStages.0.labelPlural>
+  <Cowgirl.lifeStages.0.labelMale>телёнок бычок</Cowgirl.lifeStages.0.labelMale>
+  <Cowgirl.lifeStages.0.labelMalePlural>телята бычки</Cowgirl.lifeStages.0.labelMalePlural>
+  <Cowgirl.lifeStages.0.labelFemale>телёнок коровка</Cowgirl.lifeStages.0.labelFemale>
+  <Cowgirl.lifeStages.0.labelFemalePlural>телята коровки</Cowgirl.lifeStages.0.labelFemalePlural>
+  <Cowgirl.lifeStages.1.label>телок коровок</Cowgirl.lifeStages.1.label>
+  <Cowgirl.lifeStages.1.labelPlural>телки коровок</Cowgirl.lifeStages.1.labelPlural>
+  <Cowgirl.lifeStages.1.labelMale>телок бычок</Cowgirl.lifeStages.1.labelMale>
+  <Cowgirl.lifeStages.1.labelMalePlural>телки бычки</Cowgirl.lifeStages.1.labelMalePlural>
+  <Cowgirl.lifeStages.1.labelFemale>тёлка коровка</Cowgirl.lifeStages.1.labelFemale>
+  <Cowgirl.lifeStages.1.labelFemalePlural>тёлки коровки</Cowgirl.lifeStages.1.labelFemalePlural>
+  <Cowgirl.lifeStages.2.label>коровка</Cowgirl.lifeStages.2.label>
+  <Cowgirl.lifeStages.2.labelPlural>коровки</Cowgirl.lifeStages.2.labelPlural>
+  <Cowgirl.lifeStages.2.labelMale>бычок</Cowgirl.lifeStages.2.labelMale>
+  <Cowgirl.lifeStages.2.labelMalePlural>бычки</Cowgirl.lifeStages.2.labelMalePlural>
+  <Cowgirl.lifeStages.2.labelFemale>коровка</Cowgirl.lifeStages.2.labelFemale>
+  <Cowgirl.lifeStages.2.labelFemalePlural>коровки</Cowgirl.lifeStages.2.labelFemalePlural>
+  <Cowgirl.labelMale>бычок</Cowgirl.labelMale>
+  <Cowgirl.labelMalePlural>бычки</Cowgirl.labelMalePlural>
+  <Cowgirl.labelFemale>коровка</Cowgirl.labelFemale>
+  <Cowgirl.labelFemalePlural>коровки</Cowgirl.labelFemalePlural>
+  
+  <Impmother.label>мать бесов</Impmother.label>
+  <Impmother.labelPlural>матери бесов</Impmother.labelPlural>
+  <Impmother.lifeStages.0.label>бесёнок</Impmother.lifeStages.0.label>
+  <Impmother.lifeStages.0.labelPlural>бесята</Impmother.lifeStages.0.labelPlural>
+  <Impmother.lifeStages.0.labelMale>бесёнок</Impmother.lifeStages.0.labelMale>
+  <Impmother.lifeStages.0.labelMalePlural>бесята</Impmother.lifeStages.0.labelMalePlural>
+  <Impmother.lifeStages.0.labelFemale>маленькая бесовка</Impmother.lifeStages.0.labelFemale>
+  <Impmother.lifeStages.0.labelFemalePlural>маленькие бесовки</Impmother.lifeStages.0.labelFemalePlural>
+  <Impmother.lifeStages.1.label>молодой бес</Impmother.lifeStages.1.label>
+  <Impmother.lifeStages.1.labelPlural>молодые бесы</Impmother.lifeStages.1.labelPlural>
+  <Impmother.lifeStages.1.labelMale>молодой бес</Impmother.lifeStages.1.labelMale>
+  <Impmother.lifeStages.1.labelMalePlural>молодые бесы</Impmother.lifeStages.1.labelMalePlural>
+  <Impmother.lifeStages.1.labelFemale>молодая бесовка</Impmother.lifeStages.1.labelFemale>
+  <Impmother.lifeStages.1.labelFemalePlural>молодые бесовки</Impmother.lifeStages.1.labelFemalePlural>
+  <Impmother.lifeStages.2.label>мать бесов</Impmother.lifeStages.2.label>
+  <Impmother.lifeStages.2.labelPlural>матери бесов</Impmother.lifeStages.2.labelPlural>
+  <Impmother.lifeStages.2.labelMale>бес</Impmother.lifeStages.2.labelMale>
+  <Impmother.lifeStages.2.labelMalePlural>бесы</Impmother.lifeStages.2.labelMalePlural>
+  <Impmother.lifeStages.2.labelFemale>мать бесов</Impmother.lifeStages.2.labelFemale>
+  <Impmother.lifeStages.2.labelFemalePlural>матери бесов</Impmother.lifeStages.2.labelFemalePlural>
+  <Impmother.labelMale>бес</Impmother.labelMale>
+  <Impmother.labelMalePlural>бесы</Impmother.labelMalePlural>
+  <Impmother.labelFemale>мать бесов</Impmother.labelFemale>
+  <Impmother.labelFemalePlural>матери бесов</Impmother.labelFemalePlural>
+  
+  <Dragongirl.label>драконоид</Dragongirl.label>
+  <Dragongirl.labelPlural>драконоиды</Dragongirl.labelPlural>
+  <Dragongirl.lifeStages.0.label>детёныш драконоидов</Dragongirl.lifeStages.0.label>
+  <Dragongirl.lifeStages.0.labelPlural>детёныши драконоидов</Dragongirl.lifeStages.0.labelPlural>
+  <Dragongirl.lifeStages.0.labelMale>детёныш драконоид</Dragongirl.lifeStages.0.labelMale>
+  <Dragongirl.lifeStages.0.labelMalePlural>детёныши драконоиды</Dragongirl.lifeStages.0.labelMalePlural>
+  <Dragongirl.lifeStages.0.labelFemale>детёныш дракодева</Dragongirl.lifeStages.0.labelFemale>
+  <Dragongirl.lifeStages.0.labelFemalePlural>детёныши дракодевы</Dragongirl.lifeStages.0.labelFemalePlural>
+  <Dragongirl.lifeStages.1.label>молодой драконоид</Dragongirl.lifeStages.1.label>
+  <Dragongirl.lifeStages.1.labelPlural>молодняк драконоидов</Dragongirl.lifeStages.1.labelPlural>
+  <Dragongirl.lifeStages.1.labelMale>молодой драконоид</Dragongirl.lifeStages.1.labelMale>
+  <Dragongirl.lifeStages.1.labelMalePlural>молодые драконоиды</Dragongirl.lifeStages.1.labelMalePlural>
+  <Dragongirl.lifeStages.1.labelFemale>молодая дракодева</Dragongirl.lifeStages.1.labelFemale>
+  <Dragongirl.lifeStages.1.labelFemalePlural>молодые дракодевы</Dragongirl.lifeStages.1.labelFemalePlural>
+  <Dragongirl.lifeStages.2.label>драконоид</Dragongirl.lifeStages.2.label>
+  <Dragongirl.lifeStages.2.labelPlural>драконоиды</Dragongirl.lifeStages.2.labelPlural>
+  <Dragongirl.lifeStages.2.labelMale>драконоид</Dragongirl.lifeStages.2.labelMale>
+  <Dragongirl.lifeStages.2.labelMalePlural>драконоиды</Dragongirl.lifeStages.2.labelMalePlural>
+  <Dragongirl.lifeStages.2.labelFemale>дракодева</Dragongirl.lifeStages.2.labelFemale>
+  <Dragongirl.lifeStages.2.labelFemalePlural>дракодевы</Dragongirl.lifeStages.2.labelFemalePlural>
+  <Dragongirl.labelMale>драконоид</Dragongirl.labelMale>
+  <Dragongirl.labelMalePlural>драконоиды</Dragongirl.labelMalePlural>
+  <Dragongirl.labelFemale>дракодева</Dragongirl.labelFemale>
+  <Dragongirl.labelFemalePlural>дракодевы</Dragongirl.labelFemalePlural>
+  
+  <Dryad.label>дриада</Dryad.label>
+  <Dryad.labelPlural>дриады</Dryad.labelPlural>
+  <Dryad.lifeStages.0.label>детёныш дриад</Dryad.lifeStages.0.label>
+  <Dryad.lifeStages.0.labelPlural>детёныши дриад</Dryad.lifeStages.0.labelPlural>
+  <Dryad.lifeStages.0.labelMale>детёныш сатир</Dryad.lifeStages.0.labelMale>
+  <Dryad.lifeStages.0.labelMalePlural>детёныши сатиры</Dryad.lifeStages.0.labelMalePlural>
+  <Dryad.lifeStages.0.labelFemale>детёныш дриада</Dryad.lifeStages.0.labelFemale>
+  <Dryad.lifeStages.0.labelFemalePlural>детёныши дриады</Dryad.lifeStages.0.labelFemalePlural>
+  <Dryad.lifeStages.1.label>молодая дриада</Dryad.lifeStages.1.label>
+  <Dryad.lifeStages.1.labelPlural>молодняк дриад</Dryad.lifeStages.1.labelPlural>
+  <Dryad.lifeStages.1.labelMale>молодой сатир</Dryad.lifeStages.1.labelMale>
+  <Dryad.lifeStages.1.labelMalePlural>молодые сатиры</Dryad.lifeStages.1.labelMalePlural>
+  <Dryad.lifeStages.1.labelFemale>молодая дриада</Dryad.lifeStages.1.labelFemale>
+  <Dryad.lifeStages.1.labelFemalePlural>молодые дриады</Dryad.lifeStages.1.labelFemalePlural>
+  <Dryad.lifeStages.2.label>дриада</Dryad.lifeStages.2.label>
+  <Dryad.lifeStages.2.labelPlural>дриады</Dryad.lifeStages.2.labelPlural>
+  <Dryad.lifeStages.2.labelMale>сатир</Dryad.lifeStages.2.labelMale>
+  <Dryad.lifeStages.2.labelMalePlural>сатиры</Dryad.lifeStages.2.labelMalePlural>
+  <Dryad.lifeStages.2.labelFemale>дриада</Dryad.lifeStages.2.labelFemale>
+  <Dryad.lifeStages.2.labelFemalePlural>дриады</Dryad.lifeStages.2.labelFemalePlural>
+  <Dryad.labelMale>сатир</Dryad.labelMale>
+  <Dryad.labelMalePlural>сатиры</Dryad.labelMalePlural>
+  <Dryad.labelFemale>дриада</Dryad.labelFemale>
+  <Dryad.labelFemalePlural>дриады</Dryad.labelFemalePlural>
+  
+  <FairyForest.label>лесная фея</FairyForest.label>
+  <FairyForest.labelPlural>лесные феи</FairyForest.labelPlural>
+  <FairyForest.lifeStages.0.label>зелёная искорка</FairyForest.lifeStages.0.label>
+  <FairyForest.lifeStages.0.labelPlural>зелёные искорки</FairyForest.lifeStages.0.labelPlural>
+  <FairyForest.lifeStages.0.labelMale>зелёная искорка</FairyForest.lifeStages.0.labelMale>
+  <FairyForest.lifeStages.0.labelMalePlural>зелёные искорки</FairyForest.lifeStages.0.labelMalePlural>
+  <FairyForest.lifeStages.0.labelFemale>зелёная искорка</FairyForest.lifeStages.0.labelFemale>
+  <FairyForest.lifeStages.0.labelFemalePlural>зелёные искорки</FairyForest.lifeStages.0.labelFemalePlural>
+  <FairyForest.lifeStages.1.label>зелёный светлячок</FairyForest.lifeStages.1.label>
+  <FairyForest.lifeStages.1.labelPlural>зелёные светлячки</FairyForest.lifeStages.1.labelPlural>
+  <FairyForest.lifeStages.1.labelMale>зелёный светлячок</FairyForest.lifeStages.1.labelMale>
+  <FairyForest.lifeStages.1.labelMalePlural>зелёные светлячки</FairyForest.lifeStages.1.labelMalePlural>
+  <FairyForest.lifeStages.1.labelFemale>зелёный светлячок</FairyForest.lifeStages.1.labelFemale>
+  <FairyForest.lifeStages.1.labelFemalePlural>зелёные светлячки</FairyForest.lifeStages.1.labelFemalePlural>
+  <FairyForest.lifeStages.2.label>лесная фея</FairyForest.lifeStages.2.label>
+  <FairyForest.lifeStages.2.labelPlural>лесные феи</FairyForest.lifeStages.2.labelPlural>
+  <FairyForest.lifeStages.2.labelMale>лесной эльф</FairyForest.lifeStages.2.labelMale>
+  <FairyForest.lifeStages.2.labelMalePlural>лесные эльфы</FairyForest.lifeStages.2.labelMalePlural>
+  <FairyForest.lifeStages.2.labelFemale>лесная фея</FairyForest.lifeStages.2.labelFemale>
+  <FairyForest.lifeStages.2.labelFemalePlural>лесные феи</FairyForest.lifeStages.2.labelFemalePlural>
+  <FairyForest.labelMale>лесной эльф</FairyForest.labelMale>
+  <FairyForest.labelMalePlural>лесные эльфы</FairyForest.labelMalePlural>
+  <FairyForest.labelFemale>лесная фея</FairyForest.labelFemale>
+  <FairyForest.labelFemalePlural>лесные феи</FairyForest.labelFemalePlural>
+  
+  <FairyIce.label>ледяная фея</FairyIce.label>
+  <FairyIce.labelPlural>ледяные феи</FairyIce.labelPlural>
+  <FairyIce.lifeStages.0.label>голубая искорка</FairyIce.lifeStages.0.label>
+  <FairyIce.lifeStages.0.labelPlural>голубые искорки</FairyIce.lifeStages.0.labelPlural>
+  <FairyIce.lifeStages.0.labelMale>голубая искорка</FairyIce.lifeStages.0.labelMale>
+  <FairyIce.lifeStages.0.labelMalePlural>голубые искорки</FairyIce.lifeStages.0.labelMalePlural>
+  <FairyIce.lifeStages.0.labelFemale>голубая искорка</FairyIce.lifeStages.0.labelFemale>
+  <FairyIce.lifeStages.0.labelFemalePlural>голубые искорки</FairyIce.lifeStages.0.labelFemalePlural>
+  <FairyIce.lifeStages.1.label>голубой светлячок</FairyIce.lifeStages.1.label>
+  <FairyIce.lifeStages.1.labelPlural>голубые светлячки</FairyIce.lifeStages.1.labelPlural>
+  <FairyIce.lifeStages.1.labelMale>голубой светлячок</FairyIce.lifeStages.1.labelMale>
+  <FairyIce.lifeStages.1.labelMalePlural>голубые светлячки</FairyIce.lifeStages.1.labelMalePlural>
+  <FairyIce.lifeStages.1.labelFemale>голубой светлячок</FairyIce.lifeStages.1.labelFemale>
+  <FairyIce.lifeStages.1.labelFemalePlural>голубые светлячки</FairyIce.lifeStages.1.labelFemalePlural>
+  <FairyIce.lifeStages.2.label>ледяная фея</FairyIce.lifeStages.2.label>
+  <FairyIce.lifeStages.2.labelPlural>ледяные феи</FairyIce.lifeStages.2.labelPlural>
+  <FairyIce.lifeStages.2.labelMale>ледяной эльф</FairyIce.lifeStages.2.labelMale>
+  <FairyIce.lifeStages.2.labelMalePlural>ледяные эльфы</FairyIce.lifeStages.2.labelMalePlural>
+  <FairyIce.lifeStages.2.labelFemale>ледяная фея</FairyIce.lifeStages.2.labelFemale>
+  <FairyIce.lifeStages.2.labelFemalePlural>ледяные феи</FairyIce.lifeStages.2.labelFemalePlural>
+  <FairyIce.labelMale>ледяной эльф</FairyIce.labelMale>
+  <FairyIce.labelMalePlural>ледяные эльфы</FairyIce.labelMalePlural>
+  <FairyIce.labelFemale>ледяная фея</FairyIce.labelFemale>
+  <FairyIce.labelFemalePlural>ледяные феи</FairyIce.labelFemalePlural>
+  
+  <Foxgirl.label>лисичка</Foxgirl.label>
+  <Foxgirl.labelPlural>лисички</Foxgirl.labelPlural>
+  <Foxgirl.lifeStages.0.label>детёныш лисички</Foxgirl.lifeStages.0.label>
+  <Foxgirl.lifeStages.0.labelPlural>детёныши лисичек</Foxgirl.lifeStages.0.labelPlural>
+  <Foxgirl.lifeStages.0.labelMale>детёныш лисец</Foxgirl.lifeStages.0.labelMale>
+  <Foxgirl.lifeStages.0.labelMalePlural>детёныши лисцы</Foxgirl.lifeStages.0.labelMalePlural>
+  <Foxgirl.lifeStages.0.labelFemale>детёныш лисичка</Foxgirl.lifeStages.0.labelFemale>
+  <Foxgirl.lifeStages.0.labelFemalePlural>детёныши лисички</Foxgirl.lifeStages.0.labelFemalePlural>
+  <Foxgirl.lifeStages.1.label>молодая лисичка</Foxgirl.lifeStages.1.label>
+  <Foxgirl.lifeStages.1.labelPlural>молодняк лисичек</Foxgirl.lifeStages.1.labelPlural>
+  <Foxgirl.lifeStages.1.labelMale>молодой лисец</Foxgirl.lifeStages.1.labelMale>
+  <Foxgirl.lifeStages.1.labelMalePlural>молодые лисцы</Foxgirl.lifeStages.1.labelMalePlural>
+  <Foxgirl.lifeStages.1.labelFemale>молодая лисичка</Foxgirl.lifeStages.1.labelFemale>
+  <Foxgirl.lifeStages.1.labelFemalePlural>молодые лисички</Foxgirl.lifeStages.1.labelFemalePlural>
+  <Foxgirl.lifeStages.2.label>лисичка</Foxgirl.lifeStages.2.label>
+  <Foxgirl.lifeStages.2.labelPlural>лисички</Foxgirl.lifeStages.2.labelPlural>
+  <Foxgirl.lifeStages.2.labelMale>лисец</Foxgirl.lifeStages.2.labelMale>
+  <Foxgirl.lifeStages.2.labelMalePlural>лисцы</Foxgirl.lifeStages.2.labelMalePlural>
+  <Foxgirl.lifeStages.2.labelFemale>лисичка</Foxgirl.lifeStages.2.labelFemale>
+  <Foxgirl.lifeStages.2.labelFemalePlural>лисички</Foxgirl.lifeStages.2.labelFemalePlural>
+  <Foxgirl.labelMale>лисец</Foxgirl.labelMale>
+  <Foxgirl.labelMalePlural>лисцы</Foxgirl.labelMalePlural>
+  <Foxgirl.labelFemale>лисичка</Foxgirl.labelFemale>
+  <Foxgirl.labelFemalePlural>лисички</Foxgirl.labelFemalePlural>
+  
+  <Harpy.label>гарпия</Harpy.label>
+  <Harpy.labelPlural>гарпии</Harpy.labelPlural>
+  <Harpy.lifeStages.0.label>цыплёнок гарпий</Harpy.lifeStages.0.label>
+  <Harpy.lifeStages.0.labelPlural>цыплята гарпий</Harpy.lifeStages.0.labelPlural>
+  <Harpy.lifeStages.0.labelMale>цыплёнок самец гарпии</Harpy.lifeStages.0.labelMale>
+  <Harpy.lifeStages.0.labelMalePlural>цыплята самцы гарпии</Harpy.lifeStages.0.labelMalePlural>
+  <Harpy.lifeStages.0.labelFemale>цыплёнок гарпия</Harpy.lifeStages.0.labelFemale>
+  <Harpy.lifeStages.0.labelFemalePlural>цыплята гарпии</Harpy.lifeStages.0.labelFemalePlural>
+  <Harpy.lifeStages.1.label>молодая гарпия</Harpy.lifeStages.1.label>
+  <Harpy.lifeStages.1.labelPlural>молодняк гарпий</Harpy.lifeStages.1.labelPlural>
+  <Harpy.lifeStages.1.labelMale>молодой самец гарпии</Harpy.lifeStages.1.labelMale>
+  <Harpy.lifeStages.1.labelMalePlural>молодые самцы гарпии</Harpy.lifeStages.1.labelMalePlural>
+  <Harpy.lifeStages.1.labelFemale>молодая гарпия</Harpy.lifeStages.1.labelFemale>
+  <Harpy.lifeStages.1.labelFemalePlural>молодые гарпии</Harpy.lifeStages.1.labelFemalePlural>
+  <Harpy.lifeStages.2.label>гарпия</Harpy.lifeStages.2.label>
+  <Harpy.lifeStages.2.labelPlural>гарпии</Harpy.lifeStages.2.labelPlural>
+  <Harpy.lifeStages.2.labelMale>самец гарпии</Harpy.lifeStages.2.labelMale>
+  <Harpy.lifeStages.2.labelMalePlural>самцы гарпии</Harpy.lifeStages.2.labelMalePlural>
+  <Harpy.lifeStages.2.labelFemale>гарпия</Harpy.lifeStages.2.labelFemale>
+  <Harpy.lifeStages.2.labelFemalePlural>гарпии</Harpy.lifeStages.2.labelFemalePlural>
+  <Harpy.labelMale>самец гарпии</Harpy.labelMale>
+  <Harpy.labelMalePlural>самцы гарпии</Harpy.labelMalePlural>
+  <Harpy.labelFemale>гарпия</Harpy.labelFemale>
+  <Harpy.labelFemalePlural>гарпии</Harpy.labelFemalePlural>
+  
+  <Slime.label>монстрослизь</Slime.label>
+  <Slime.labelPlural>монстрослизи</Slime.labelPlural>
+  <Slime.lifeStages.0.label>детёныш монстрослизи</Slime.lifeStages.0.label>
+  <Slime.lifeStages.0.labelPlural>детёныши монстрослизи</Slime.lifeStages.0.labelPlural>
+  <Slime.lifeStages.0.labelMale>детёныш синяя монстрослизи</Slime.lifeStages.0.labelMale>
+  <Slime.lifeStages.0.labelMalePlural>детёныши синие монстрослизи</Slime.lifeStages.0.labelMalePlural>
+  <Slime.lifeStages.0.labelFemale>детёныш красная монстрослизь</Slime.lifeStages.0.labelFemale>
+  <Slime.lifeStages.0.labelFemalePlural>детёныши красные монстрослизи</Slime.lifeStages.0.labelFemalePlural>
+  <Slime.lifeStages.1.label>молодая монстрослизь</Slime.lifeStages.1.label>
+  <Slime.lifeStages.1.labelPlural>молодняк монстрослизи</Slime.lifeStages.1.labelPlural>
+  <Slime.lifeStages.1.labelMale>молодая синяя монстрослизь</Slime.lifeStages.1.labelMale>
+  <Slime.lifeStages.1.labelMalePlural>молодые синие монстрослизи</Slime.lifeStages.1.labelMalePlural>
+  <Slime.lifeStages.1.labelFemale>молодая красная монстрослизь</Slime.lifeStages.1.labelFemale>
+  <Slime.lifeStages.1.labelFemalePlural>молодые красные монстрослизи</Slime.lifeStages.1.labelFemalePlural>
+  <Slime.lifeStages.2.label>монстрослизь</Slime.lifeStages.2.label>
+  <Slime.lifeStages.2.labelPlural>монстрослизи</Slime.lifeStages.2.labelPlural>
+  <Slime.lifeStages.2.labelMale>синяя монстрослизь</Slime.lifeStages.2.labelMale>
+  <Slime.lifeStages.2.labelMalePlural>синие монстрослизи</Slime.lifeStages.2.labelMalePlural>
+  <Slime.lifeStages.2.labelFemale>красная монстрослизь</Slime.lifeStages.2.labelFemale>
+  <Slime.lifeStages.2.labelFemalePlural>красные монстрослизи</Slime.lifeStages.2.labelFemalePlural>
+  <Slime.labelMale>синяя монстрослизь</Slime.labelMale>
+  <Slime.labelMalePlural>синие монстрослизи</Slime.labelMalePlural>
+  <Slime.labelFemale>красная монстрослизь</Slime.labelFemale>
+  <Slime.labelFemalePlural>красные монстрослизи</Slime.labelFemalePlural>
+  
+  <Thrumbomorph.label>трумбоморф</Thrumbomorph.label>
+  <Thrumbomorph.labelPlural>трумбоморфы</Thrumbomorph.labelPlural>
+  <Thrumbomorph.lifeStages.0.label>детёныш трумбоморфов</Thrumbomorph.lifeStages.0.label>
+  <Thrumbomorph.lifeStages.0.labelPlural>детёныши трумбоморфов</Thrumbomorph.lifeStages.0.labelPlural>
+  <Thrumbomorph.lifeStages.0.labelMale>детёныш трумбоморф</Thrumbomorph.lifeStages.0.labelMale>
+  <Thrumbomorph.lifeStages.0.labelMalePlural>детёныши трумбоморфы</Thrumbomorph.lifeStages.0.labelMalePlural>
+  <Thrumbomorph.lifeStages.0.labelFemale>детёныш трумбодева</Thrumbomorph.lifeStages.0.labelFemale>
+  <Thrumbomorph.lifeStages.0.labelFemalePlural>детёныши трумбодевы</Thrumbomorph.lifeStages.0.labelFemalePlural>
+  <Thrumbomorph.lifeStages.1.label>молодой трумбоморф</Thrumbomorph.lifeStages.1.label>
+  <Thrumbomorph.lifeStages.1.labelPlural>молодняк трумбоморфов</Thrumbomorph.lifeStages.1.labelPlural>
+  <Thrumbomorph.lifeStages.1.labelMale>молодой трумбоморф</Thrumbomorph.lifeStages.1.labelMale>
+  <Thrumbomorph.lifeStages.1.labelMalePlural>молодые трумбоморфы</Thrumbomorph.lifeStages.1.labelMalePlural>
+  <Thrumbomorph.lifeStages.1.labelFemale>молодая трумбодева</Thrumbomorph.lifeStages.1.labelFemale>
+  <Thrumbomorph.lifeStages.1.labelFemalePlural>молодые трумбодевы</Thrumbomorph.lifeStages.1.labelFemalePlural>
+  <Thrumbomorph.lifeStages.2.label>трумбоморф</Thrumbomorph.lifeStages.2.label>
+  <Thrumbomorph.lifeStages.2.labelPlural>трумбоморфы</Thrumbomorph.lifeStages.2.labelPlural>
+  <Thrumbomorph.lifeStages.2.labelMale>трумбоморф</Thrumbomorph.lifeStages.2.labelMale>
+  <Thrumbomorph.lifeStages.2.labelMalePlural>трумбоморфы</Thrumbomorph.lifeStages.2.labelMalePlural>
+  <Thrumbomorph.lifeStages.2.labelFemale>трумбодева</Thrumbomorph.lifeStages.2.labelFemale>
+  <Thrumbomorph.lifeStages.2.labelFemalePlural>трумбодевы</Thrumbomorph.lifeStages.2.labelFemalePlural>
+  <Thrumbomorph.labelMale>трумбоморф</Thrumbomorph.labelMale>
+  <Thrumbomorph.labelMalePlural>трумбоморфы</Thrumbomorph.labelMalePlural>
+  <Thrumbomorph.labelFemale>трумбодева</Thrumbomorph.labelFemale>
+  <Thrumbomorph.labelFemalePlural>трумбодевы</Thrumbomorph.labelFemalePlural>
+  
+</LanguageData>

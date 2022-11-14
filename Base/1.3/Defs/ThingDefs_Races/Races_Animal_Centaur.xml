@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
-    <defName>Dryad</defName>
-    <label>dryad</label>
-    <description>A forest-dwelling cousin of the centaur. Dryads are smaller and more docile, but quickly grow long, silky hair that can be used as wool.</description>
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsArms">
+    <defName>Centaur</defName>
+    <label>centaur</label>
+    <description>A fast, tough, intelligent and independent animal. Centaurs are most often found grazing in arid grasslands. Centaurs are extremely versatile and can serve well in combat, as pack animals, for their milk and wool, and as companions.</description>
     <statBases>
-      <MoveSpeed>5.4</MoveSpeed>
-      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
-      <MarketValue>950</MarketValue>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <ComfyTemperatureMax>40</ComfyTemperatureMax>
+      <MarketValue>888</MarketValue>
     </statBases>
     <tools>
       <li>
@@ -86,28 +87,27 @@
     </tools>
     <comps>
       <li Class="CompProperties_Milkable">
-        <milkDef>DryadMilk</milkDef>
-        <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>25</milkAmount>
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>10</milkAmount>
       </li>
       <li Class="CompProperties_Shearable">
-        <woolDef>HairDryad</woolDef>
-        <shearIntervalDays>15</shearIntervalDays>
+        <woolDef>HairCentaur</woolDef>
+        <shearIntervalDays>25</shearIntervalDays>
         <woolAmount>100</woolAmount>
       </li>
     </comps>
     <race>
       <herdAnimal>true</herdAnimal>
-      <body>Dryad</body>
-      <roamMtbDays>2</roamMtbDays>
-      <baseBodySize>1.5</baseBodySize>
-      <baseHealthScale>1.60</baseHealthScale>
-      <baseHungerRate>0.7</baseHungerRate>
+      <body>Centaur</body>
+      <baseBodySize>1.8</baseBodySize>
+      <baseHealthScale>1.75</baseHealthScale>
+      <baseHungerRate>0.8</baseHungerRate>
       <foodType>VegetarianRoughAnimal</foodType>
-      <wildness>0.10</wildness>
+      <wildness>0.25</wildness>
       <petness>0.5</petness>
-      <leatherDef>Leather_Dryad</leatherDef>
-      <meatLabel>dryad meat</meatLabel>
+      <leatherDef>Leather_Centaur</leatherDef>
+      <meatLabel>centaur meat</meatLabel>
       <gestationPeriodDays>30</gestationPeriodDays>
       <trainability>Advanced</trainability>
       <packAnimal>true</packAnimal>
@@ -120,21 +120,20 @@
           <li>(3.5, 0)</li>
         </points>
       </litterSizeCurve>
-      <nameOnTameChance>0.3</nameOnTameChance>
-      <nameOnNuzzleChance>0.5</nameOnNuzzleChance>
+      <nameOnTameChance>0.1</nameOnTameChance>
       <wildBiomes>
         <Tundra>0</Tundra>
         <IceSheet>0</IceSheet>
         <SeaIce>0</SeaIce>
-        <TropicalRainforest>0.25</TropicalRainforest>
-        <TemperateForest>0.35</TemperateForest>
-        <BorealForest>0.35</BorealForest>
-        <AridShrubland>0</AridShrubland>
-        <Desert>0</Desert>
+        <TropicalRainforest>0.05</TropicalRainforest>
+        <TemperateForest>0.05</TemperateForest>
+        <BorealForest>0</BorealForest>
+        <AridShrubland>0.4</AridShrubland>
+        <Desert>0.05</Desert>
         <ExtremeDesert>0</ExtremeDesert>
-        <TemperateSwamp>0.18</TemperateSwamp>
+        <TemperateSwamp>0.05</TemperateSwamp>
         <ColdBog>0</ColdBog>
-        <TropicalSwamp>0.11</TropicalSwamp>
+        <TropicalSwamp>0.05</TropicalSwamp>
       </wildBiomes>
       <lifeStageAges>
         <li>
@@ -158,30 +157,32 @@
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-      <li>AnimalCommon</li>
+		<li>AnimalCommon</li>
+		<li>AnimalFarm</li>
+		<li>AnimalExotic</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
-    <defName>Dryad</defName>
-    <label>dryad</label>
-    <labelPlural>dryads</labelPlural>
-    <race>Dryad</race>
+    <defName>Centaur</defName>
+    <label>centaur</label>
+    <labelPlural>centaurs</labelPlural>
+    <race>Centaur</race>
     <combatPower>80</combatPower>
     <ecoSystemWeight>0.2</ecoSystemWeight>
     <wildGroupSize>
       <min>3</min>
       <max>9</max>
     </wildGroupSize>
-    <labelMale>satyr</labelMale>
-    <labelFemale>dryad</labelFemale>
+    <labelMale>centaur</labelMale>
+    <labelFemale>centauress</labelFemale>
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/Dryad_m</texPath>
+          <texPath>Things/Pawn/Animal/Centaur/Centaur_m</texPath>
           <drawSize>0.8</drawSize>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/Dryad_f</texPath>
+          <texPath>Things/Pawn/Animal/Centaur/Centaur_fc</texPath>
           <drawSize>0.8</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
@@ -191,31 +192,31 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/Dryad_m</texPath>
-          <drawSize>1.0</drawSize>
+          <texPath>Things/Pawn/Animal/Centaur/Centaur_m</texPath>
+          <drawSize>1.2</drawSize>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/Dryad_f</texPath>
-          <drawSize>1.0</drawSize>
+          <texPath>Things/Pawn/Animal/Centaur/Centaur_fc</texPath>
+          <drawSize>1.2</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Things/Pawn/Animal/Centaur/DessicatedCentaur</texPath>
-          <drawSize>2.0</drawSize>
+          <drawSize>2.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/Dryad_m</texPath>
-          <drawSize>1.6</drawSize>
+          <texPath>Things/Pawn/Animal/Centaur/Centaur_m</texPath>
+          <drawSize>1.9</drawSize>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/Dryad_f</texPath>
-          <drawSize>1.6</drawSize>
+          <texPath>Things/Pawn/Animal/Centaur/Centaur_f</texPath>
+          <drawSize>1.9</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Centaur/DessicatedCentaur</texPath>
-          <drawSize>2.6</drawSize>
-        </dessicatedBodyGraphicData>
+			   <texPath>Things/Pawn/Animal/Centaur/DessicatedCentaur</texPath>
+			   <drawSize>2.9</drawSize>
+			</dessicatedBodyGraphicData>
       </li>
     </lifeStages>
   </PawnKindDef>

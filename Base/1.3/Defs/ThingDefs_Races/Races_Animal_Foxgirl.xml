@@ -12,9 +12,9 @@
     </statBases>
     <comps>
 		<li Class="CompProperties_Milkable">
-			<milkDef>FoxgirlMilk</milkDef>
-			<milkIntervalDays>1</milkIntervalDays>
-			<milkAmount>10</milkAmount>
+			<milkDef>Milk</milkDef>
+			<milkIntervalDays>2</milkIntervalDays>
+			<milkAmount>6</milkAmount>
 		</li>
     </comps>
     <tools>
@@ -84,17 +84,17 @@
     </tools>
     <race>
       <herdAnimal>false</herdAnimal>
+      <predator>true</predator>
       <body>Foxgirl</body>
       <baseBodySize>0.8</baseBodySize>
       <baseHealthScale>0.8</baseHealthScale>
       <baseHungerRate>0.8</baseHungerRate>
-      <foodType>CarnivoreAnimal, OvivoreAnimal</foodType>
+      <foodType>CarnivoreAnimal</foodType>
       <wildness>0.65</wildness>
       <petness>0.5</petness>
       <leatherDef>Leather_Foxgirl</leatherDef>
       <meatLabel>foxgirl meat</meatLabel>
       <gestationPeriodDays>30</gestationPeriodDays>
-      <predator>true</predator>
       <trainability>Advanced</trainability>
       <packAnimal>false</packAnimal>
       <lifeExpectancy>60</lifeExpectancy>
@@ -107,7 +107,6 @@
         </points>
       </litterSizeCurve>
       <nameOnTameChance>0.1</nameOnTameChance>
-      <nameOnNuzzleChance>0.35</nameOnNuzzleChance>
       <wildBiomes>
         <Tundra>0</Tundra>
         <IceSheet>0.1</IceSheet>
@@ -144,9 +143,7 @@
       <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
     </race>
     <tradeTags>
-		<li>AnimalCommon</li>
-		<li>AnimalFarm</li>
-		<li>AnimalExotic</li>
+      <li>AnimalUncommon</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
