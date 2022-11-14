@@ -84,12 +84,12 @@
     </tools>
     <race>
       <herdAnimal>false</herdAnimal>
-      <body>Foxgirl</body>
       <predator>true</predator>
+      <body>Foxgirl</body>
       <baseBodySize>0.8</baseBodySize>
       <baseHealthScale>0.8</baseHealthScale>
       <baseHungerRate>0.8</baseHungerRate>
-      <foodType>CarnivoreAnimal, OvivoreAnimal</foodType>
+      <foodType>CarnivoreAnimal</foodType>
       <wildness>0.65</wildness>
       <petness>0.5</petness>
       <leatherDef>Leather_Foxgirl</leatherDef>
